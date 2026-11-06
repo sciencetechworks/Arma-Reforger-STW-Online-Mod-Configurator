@@ -24,11 +24,11 @@
     "squadSize": 4,
     "factionPolicy": "MIXED",
     "factions": [
-        "US",
-        "USSR"
+        "RHS_USAF",
+        "RHS_AFRF"
     ],
     "factionWeights": [
-        50.0,
-        50.0
+        5.0,
+        95.0
     ]
 }
