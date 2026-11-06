@@ -60,11 +60,6 @@
     "name": "STWBasesCratesIntegrationConfig.json"
   },
   {
-    "path": "STW/BasesCratesIntegration/STWBasesCratesIntegrationConfigOLD.json",
-    "folder": "BasesCratesIntegration",
-    "name": "STWBasesCratesIntegrationConfigOLD.json"
-  },
-  {
     "path": "STW/Boats/STWBoatsConfig.json",
     "folder": "Boats",
     "name": "STWBoatsConfig.json"
