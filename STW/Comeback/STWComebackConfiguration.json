@@ -1,0 +1,12 @@
+{
+    "signature": "STWComebackConfiguration",
+    "version": 1,
+    "enabled": true,
+    "statusSaveFrequencySeconds": 30,
+    "secondsToWaitBeforeTeleport": 60,
+    "secondsToKneelToCancelTeleport": 5,
+    "showTeleportHint": true,
+    "showTeleportChatMessage": true,
+    "diagnosticsEnabled": false,
+    "debugLogging": true
+}

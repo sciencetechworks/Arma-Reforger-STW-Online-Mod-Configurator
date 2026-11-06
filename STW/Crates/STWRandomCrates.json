@@ -1,0 +1,22 @@
+{
+    "signature": "STW_RANDOM_CRATES_CONFIG",
+    "version": 1,
+    "enableRandomCombatSuppliesCrate": true,
+    "enableRandomApparelCrate": true,
+    "enableRandomMedicalSuppliesCrate": true,
+    "enableRandomEngineeringSuppliesCrate": true,
+    "enableRandomCommunicationsCrate": true,
+    "enableRandomExplosivesCrate": true,
+    "enableRandomVehicleResupplyCrate": true,
+    "enableRandomCrate": true,
+    "preparationItemsPerBatch": 5,
+    "preparationBatchIntervalMilliseconds": 50,
+    "combatLoadoutRetryMultiplier": 10,
+    "weaponsCatalogPath": "$profile:STW/Crates/Catalogs/STWRandomCratesWeapons.json",
+    "apparelCatalogPath": "$profile:STW/Crates/Catalogs/STWRandomCratesApparel.json",
+    "uninspectedCrateExpiryMinutes": 45.0,
+    "uninspectedCrateExpiryPlayerVicinityMeters": 500.0,
+    "uninspectedCrateInspectionDistanceMeters": 5.0,
+    "uninspectedCrateExpiryContentsDisposition": "RANDOM",
+    "definitions": []
+}

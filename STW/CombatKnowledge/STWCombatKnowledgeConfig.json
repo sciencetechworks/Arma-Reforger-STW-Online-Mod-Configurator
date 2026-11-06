@@ -1,0 +1,124 @@
+{
+  "version": 9,
+  "enableAutomaticSupport": true,
+  "enableAutomaticSmokeScreen": true,
+  "enableAutomaticMortarHE": true,
+  "enableAutomaticIlluminationFlares": true,
+  "enableAutomaticLightVehicleSupport": true,
+  "enableAutomaticArmoredSupport": true,
+  "enableAutomaticTankSupport": true,
+  "enableAutomaticCASAgainstVehicles": true,
+  "enableAutomaticCASAgainstInfantry": true,
+  "enableAutomaticHelicopterAssault": true,
+  "automaticHelicopterAssaultProbability": 0.25,
+  "automaticHelicopterAssaultTroopCount": -1,
+  "automaticCASVehicleProbability": 0.3499999940395355,
+  "automaticGroundReinforcementProbability": 0.3499999940395355,
+  "automaticIndirectOrderProbability": 0.550000011920929,
+  "automaticSmokePreferenceProbability": 0.699999988079071,
+  "automaticIndirectPlayerOrderProbability": 1,
+  "observedInfantryClusterMinimum": 3,
+  "observedInfantryClusterRadiusMeters": 100,
+  "observedInfantryClusterRetentionSeconds": 20,
+  "smokeScreenDelaySeconds": 10,
+  "smokeScreenMissionBusySeconds": 45,
+  "illuminationFlareDelaySeconds": 10,
+  "illuminationFlareMissionBusySeconds": 30,
+  "illuminationFlareNightStartHour": 20,
+  "illuminationFlareNightEndHour": 6,
+  "mortarHEDelaySeconds": 10,
+  "mortarHEMissionBusySeconds": 45,
+  "mortarHEAimErrorMinimumMeters": 15,
+  "mortarHEAimErrorMaximumMeters": 45,
+  "automatedSupportContactCooldownSeconds": 180,
+  "automatedSupportRetryBaseSeconds": 30,
+  "automatedSupportRetryMaximumSeconds": 60,
+  "automatedSupportMaximumRetries": 3,
+  "automatedCASPendingPerFaction": 2,
+  "automatedCASPendingGlobal": 8,
+  "automatedSupportAreaRadiusMeters": 300,
+  "automatedDecisionEvaluationsPerMinute": 20,
+  "automatedSupportOrdersPerMinute": 8,
+  "automatedSupportOrdersPerFactionPerMinute": 2,
+  "automatedGroundRouteRequestsPerMinute": 4,
+  "automatedSupportDiagnosticsIntervalSeconds": 60,
+  "vanillaLowVisibilityContactMemorySeconds": 75,
+  "managedSniperContactMemorySeconds": 60,
+  "managedSpotterContactMemorySeconds": 75,
+  "perceptionRegistrationDelaySeconds": 1,
+  "enableCQBBuildingInvestigationDiagnostic": false,
+  "perceptionDeregistrationGraceSeconds": 0.75,
+  "vanillaLowVisibilityThreatPenalty": 2,
+  "managedSniperThreatPenalty": 5,
+  "managedSpotterThreatPenalty": 3,
+  "factionProfiles": [
+    {
+      "factionKey": "US",
+      "enabled": true,
+      "permittedCapabilities": [
+        "mortar_he",
+        "mortar_smoke",
+        "mortar_flare",
+        "cas",
+        "light_vehicle",
+        "armored",
+        "tanks",
+        "helicopter_assault"
+      ]
+    },
+    {
+      "factionKey": "RHS_USAF",
+      "enabled": true,
+      "permittedCapabilities": [
+        "mortar_he",
+        "mortar_smoke",
+        "mortar_flare",
+        "cas",
+        "light_vehicle",
+        "armored",
+        "tanks",
+        "helicopter_assault"
+      ]
+    },
+    {
+      "factionKey": "USSR",
+      "enabled": true,
+      "permittedCapabilities": [
+        "mortar_he",
+        "mortar_smoke",
+        "mortar_flare",
+        "cas",
+        "light_vehicle",
+        "armored",
+        "tanks",
+        "helicopter_assault"
+      ]
+    },
+    {
+      "factionKey": "RHS_AFRF",
+      "enabled": true,
+      "permittedCapabilities": [
+        "mortar_he",
+        "mortar_smoke",
+        "mortar_flare",
+        "cas",
+        "light_vehicle",
+        "armored",
+        "tanks",
+        "helicopter_assault"
+      ]
+    },
+    {
+      "factionKey": "CIV",
+      "enabled": false,
+      "permittedCapabilities": []
+    },
+    {
+      "factionKey": "PLASTICBANDIT",
+      "enabled": true,
+      "permittedCapabilities": [
+        "light_vehicle"
+      ]
+    }
+  ]
+}

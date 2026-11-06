@@ -1,0 +1,884 @@
+{
+    "signature": "STW_PERSISTENT_CRATES",
+    "version": 2,
+    "crates": [
+        {
+            "version": 2,
+            "inventoryFormat": "STW_INVENTORY_TREE_V2_4",
+            "persistentId": "STW_CRATE_147213_1",
+            "position": [
+                1751.7945556640626,
+                39.00004577636719,
+                2855.123046875
+            ],
+            "angles": [
+                -0.000005008955668017734,
+                0.0,
+                -0.0
+            ],
+            "initialMarkerPosition": [
+                1751.7945556640626,
+                39.00004577636719,
+                2855.123046875
+            ],
+            "capacity": 100,
+            "factionKey": "",
+            "items": [
+                {
+                    "prefab": "{5C5C6EE05EE2FF1A}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium_assembled.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{CE0AF733722B3978}Prefabs/Items/Equipment/Detonators/BlastingMachine_M34/BlastingMachine_M34.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{90976DC90A223095}Prefabs/Items/Equipment/Detonators/BlastingMachine_KPM_3U1/BlastingMachine_KPM_3U1.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{90976DC90A223095}Prefabs/Items/Equipment/Detonators/BlastingMachine_KPM_3U1/BlastingMachine_KPM_3U1.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{90976DC90A223095}Prefabs/Items/Equipment/Detonators/BlastingMachine_KPM_3U1/BlastingMachine_KPM_3U1.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{90976DC90A223095}Prefabs/Items/Equipment/Detonators/BlastingMachine_KPM_3U1/BlastingMachine_KPM_3U1.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{5C5C6EE05EE2FF1A}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium_assembled.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{49FFE8F373F55960}Prefabs/Weapons/Explosives/Mine_M15AT/Mine_M15AT.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{49FFE8F373F55960}Prefabs/Weapons/Explosives/Mine_M15AT/Mine_M15AT.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{E4C9F0A4090CFE4D}Prefabs/Weapons/Explosives/Mine_M14/Mine_M14.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{B05A816C0BF50802}Prefabs/Weapons/Explosives/Mine_PMN4/Mine_PMN4.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": 1.0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "tombstones": []
+}

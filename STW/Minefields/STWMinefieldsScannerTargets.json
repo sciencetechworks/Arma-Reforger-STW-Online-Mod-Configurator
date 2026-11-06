@@ -1,0 +1,177 @@
+{
+    "version": 6,
+    "targets": [
+        {
+            "enabled": true,
+            "matchText": "NETFENCE_04_4M_D.ET",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 0.019999999552965165
+        },
+        {
+            "enabled": true,
+            "matchText": "NETFENCE_04_D.ET",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 0.019999999552965165
+        },
+        {
+            "enabled": true,
+            "matchText": "CONCRETEWALL_01_6M_D_",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 0.5
+        },
+        {
+            "enabled": true,
+            "matchText": "CONCRETEWALL_01_CAMO_6M_D_",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 0.5
+        },
+        {
+            "enabled": true,
+            "matchText": "CONCRETEWALL_01_D.ET",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 0.5
+        },
+        {
+            "enabled": true,
+            "matchText": "CONCRETEWALL_01_D_CAMO.ET",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 0.5
+        },
+        {
+            "enabled": true,
+            "matchText": "CONCRETEWALL_01_D_WHITE.ET",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 0.5
+        },
+        {
+            "enabled": true,
+            "matchText": "DOOR_NETFENCE_05_GATE_",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 1.0
+        },
+        {
+            "enabled": true,
+            "matchText": "DOORSET_NETFENCE_01_GATE_",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 1.0
+        },
+        {
+            "enabled": true,
+            "matchText": "DOORSET_NETFENCE_02_GATE_",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 1.0
+        },
+        {
+            "enabled": true,
+            "matchText": "DOORSET_NETFENCE_05_GATE_",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 1.0
+        },
+        {
+            "enabled": true,
+            "matchText": "DOORSET_GAMEPROOFFENCE_01_GATE",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 1.0
+        },
+        {
+            "enabled": true,
+            "matchText": "DOORSET_METALWALL_01_GATE",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 1.0
+        },
+        {
+            "enabled": true,
+            "matchText": "DOORSET_TINWALL_01_GATE",
+            "excludeText": "",
+            "excludeTextSecondary": "",
+            "probability": 1.0
+        },
+        {
+            "enabled": true,
+            "matchText": "DOORSET_METALGATE_",
+            "excludeText": "_BASE.ET",
+            "excludeTextSecondary": "",
+            "probability": 1.0
+        },
+        {
+            "enabled": true,
+            "matchText": "DOOR_METALGATE_",
+            "excludeText": "/DST/",
+            "excludeTextSecondary": "_BASE.ET",
+            "probability": 1.0
+        }
+    ],
+    "militaryPoiTargets": [
+        {
+            "matchText": "BUNKER",
+            "associationRadiusMeters": 180.0
+        },
+        {
+            "matchText": "BARRACK",
+            "associationRadiusMeters": 180.0
+        },
+        {
+            "matchText": "HANGAR",
+            "associationRadiusMeters": 450.0
+        },
+        {
+            "matchText": "AIRFIELD",
+            "associationRadiusMeters": 750.0
+        },
+        {
+            "matchText": "AIRPORT",
+            "associationRadiusMeters": 750.0
+        },
+        {
+            "matchText": "CHECKPOINT",
+            "associationRadiusMeters": 180.0
+        },
+        {
+            "matchText": "ROADBLOCK",
+            "associationRadiusMeters": 180.0
+        },
+        {
+            "matchText": "RADAR",
+            "associationRadiusMeters": 180.0
+        },
+        {
+            "matchText": "FORTIFICATION",
+            "associationRadiusMeters": 180.0
+        },
+        {
+            "matchText": "MILITARY",
+            "associationRadiusMeters": 180.0
+        }
+    ],
+    "civilianPoiTargets": [
+        {
+            "matchText": "CHURCH",
+            "exclusionRadiusMeters": 100.0
+        },
+        {
+            "matchText": "VILLAGE",
+            "exclusionRadiusMeters": 125.0
+        },
+        {
+            "matchText": "TOWN",
+            "exclusionRadiusMeters": 125.0
+        },
+        {
+            "matchText": "FARM",
+            "exclusionRadiusMeters": 100.0
+        }
+    ]
+}

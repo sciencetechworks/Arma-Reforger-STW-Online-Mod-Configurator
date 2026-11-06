@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "enabled": true,
+    "aloneLifetimeMinutes": 90,
+    "playerProtectionDistanceMeters": 1000,
+    "nearbyAIProtectionDistanceMeters": 100,
+    "candidateCheckIntervalSeconds": 120,
+    "discoveryIntervalSeconds": 600,
+    "civilianFactionKeys": [
+        "CIV"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "version": 3,
+    "enableChatMessages": true,
+    "camouflage": "RANDOM",
+    "camouflageAllowlist": [
+        "Desert",
+        "Forest",
+        "Summer",
+        "Spring",
+        "Autumn"
+    ],
+    "sniperRifle": "RANDOM",
+    "spotterWeapon": "RANDOM",
+    "sniperMuzzle": "Suppressor",
+    "spotterMuzzle": "Suppressor",
+    "sniperOptic": "RANDOM",
+    "spotterOptic": "RANDOM",
+    "nightVision": "RANDOM",
+    "enableBalaclavas": true,
+    "magazineMinimum": 5,
+    "magazineMaximum": 7,
+    "fragmentationGrenades": 3,
+    "smokeGrenades": 3
+}

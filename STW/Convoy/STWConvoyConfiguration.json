@@ -1,0 +1,31 @@
+{
+  "configVersion": 1,
+  "enabled": true,
+  "enableVisualWheelAnimation": false,
+  "automaticGenerationEnabled": true,
+  "automaticFactionKey": "RHS_AFRF",
+  "automaticFactionKeys": [
+    "RHS_AFRF"
+  ],
+  "maximumActiveConvoys": 1,
+  "maximumAutomaticConvoys": 2,
+  "maximumVehiclesPerConvoy": 10,
+  "maximumTotalVehicles": 20,
+  "automaticMinimumVehicles": 3,
+  "automaticMaximumVehicles": 8,
+  "stateEvaluationIntervalSeconds": 1,
+  "spacingCorrectionIntervalSeconds": 0.5,
+  "markerUpdateIntervalSeconds": 2,
+  "obstacleEvaluationIntervalSeconds": 2,
+  "safeAfterCombatIntervalSeconds": 5,
+  "pavedRoadSpeedKmh": 12,
+  "unpavedRoadSpeedKmh": 8,
+  "fixedVehicleSpacingMeters": 10,
+  "minimumVehicleSpacingMeters": 6,
+  "maximumVehicleSpacingMeters": 30,
+  "useVehicleSizeProportionalSpacing": false,
+  "proportionalSpacingMultiplier": 1.25,
+  "minimumCircularRoutePoints": 3,
+  "eliminatedMarkerLifetimeSeconds": 10,
+  "automaticRespawnDelaySeconds": 60
+}

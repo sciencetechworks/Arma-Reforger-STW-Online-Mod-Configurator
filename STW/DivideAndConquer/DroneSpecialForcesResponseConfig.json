@@ -1,0 +1,21 @@
+{
+    "configVersion": 1,
+    "enabled": true,
+    "sourceIds": [
+        "DRONE",
+        "VIRTUAL_SURVEILLANCE",
+        "STANDALONE_SURVEILLANCE",
+        "STWCombatKnowledge.DefaultDrone"
+    ],
+    "maximumRespondingTeams": 2,
+    "responseRadiusMeters": 1800.0,
+    "minimumTeamSeparationMeters": 250.0,
+    "minimumContactOpportunity": 0.15000000596046449,
+    "contactLifetimeSeconds": 180.0,
+    "responseCooldownSeconds": 180.0,
+    "reissueDistanceMeters": 180.0,
+    "restorePatrolAfterSeconds": 120,
+    "ignoreProxyManagedTeams": true,
+    "requireActiveTeam": true,
+    "factionMappings": []
+}

@@ -1,0 +1,74 @@
+{
+    "version": 13,
+    "vehicleMaintenanceIntervalSeconds": 600.0,
+    "enableDiagnostics": true,
+    "routeMonitorIntervalSeconds": 10.0,
+    "crewAbsenceRecoverySeconds": 300.0,
+    "emptyVehicleReplacementTimeoutSeconds": 1800,
+    "routeMinimumProgressMeters": 4.0,
+    "routeStartupGraceSeconds": 20.0,
+    "routeStuckTimeoutSeconds": 45.0,
+    "routeArrivalRadiusMeters": 20.0,
+    "routeRecoveryAttemptsPerLeg": 2,
+    "routeCumulativeRecoveryLimit": 6,
+    "routeGateInteractionGraceSeconds": 20.0,
+    "conditionFailureTimeoutSeconds": 300,
+    "overturnedUpAxisThreshold": 0.25,
+    "enableStuckTeleportRecovery": true,
+    "stuckTeleportMinimumMeters": 100.0,
+    "stuckTeleportMaximumMeters": 200.0,
+    "maximumStuckTeleportsPerPatrol": 8,
+    "stuckRecoveryCandidateLimit": 16,
+    "stuckRecoveryCooldownSeconds": 20.0,
+    "stuckRecoveryRejectedPointCooldownSeconds": 120.0,
+    "stuckRecoveryCrewRebuildLimit": 2,
+    "aiGroupRecoveryLimit": 3,
+    "aiGroupRecoveryCooldownSeconds": 10.0,
+    "enableSupportRailTransit": true,
+    "trustTrackedDriverForRoute": true,
+    "supportRailTransitSpeedKph": 42.0,
+    "supportRailTransitTickSeconds": 0.10000000149011612,
+    "supportRailPlayerExclusionMeters": 450.0,
+    "supportRailSnapMaximumMeters": 2000.0,
+    "supportEtaExpiryMultiplier": 2.0,
+    "supportEtaExpiryMinimumSeconds": 120.0,
+    "enableNotificationMessages": false,
+    "enableChatMessages": true,
+    "enableSoundMessages": true,
+    "showOwnCombatRequestMarkers": false,
+    "showAllCombatRequestMarkers": false,
+    "automaticVehicleQuotas": [
+        {
+            "factionKey": "RHS_USAF",
+            "automaticVehicleCount": 2
+        },
+        {
+            "factionKey": "RHS_AFRF",
+            "automaticVehicleCount": 3
+        }
+    ],
+    "minimumAutomaticSeparationMeters": 750.0,
+    "automaticPatrolRadiusMeters": 300.0,
+    "poiFallbackRoadProbability": 0.25,
+    "automaticStationaryGuardProbability": 0.25,
+    "automaticFreeRoamProbability": 0.25,
+    "freeRoamMinimumDistanceMeters": 600.0,
+    "freeRoamMaximumDistanceMeters": 5000.0,
+    "enabledFactionKeys": [
+        "RHS_USAF",
+        "RHS_AFRF"
+    ],
+    "excludedFactionKeys": [
+        "CIV",
+        "FIA"
+    ],
+    "combatSupportDiagnostics": false,
+    "preferredUSFactionKeys": [
+        "US",
+        "RHS_USAF"
+    ],
+    "preferredUSSRFactionKeys": [
+        "USSR",
+        "RHS_AFRF"
+    ]
+}

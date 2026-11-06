@@ -1,0 +1,34 @@
+{
+    "version": 1,
+    "terrainMortarPlacementEnabled": false,
+    "terrainMortarFactionQuotas": [
+        {
+            "factionKey": "RHS_USAF",
+            "quota": 0
+        },
+        {
+            "factionKey": "RHS_AFRF",
+            "quota": 0
+        },
+        {
+            "factionKey": "US",
+            "quota": 10
+        },
+        {
+            "factionKey": "USSR",
+            "quota": 10
+        }
+    ],
+    "terrainMortarMaximumPosts": 0,
+    "terrainMortarCoverageRadiusMeters": 2300.0,
+    "terrainMortarDifferentFactionMinimumSeparationMeters": 200.0,
+    "terrainMortarSameFactionMinimumSeparationMeters": 75.0,
+    "terrainMortarDisabledFactions": [
+        "RHS_USAF",
+        "PLASTICBANDIT",
+        "FIA",
+        "RHS_ION",
+        "USSR"
+    ],
+    "terrainMortarDebugLogging": false
+}

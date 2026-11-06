@@ -1,0 +1,18 @@
+{
+    "Signature": "STW_BASES_CRATES_INTEGRATION_CONFIG",
+    "Version": 1,
+    "Enabled": true,
+    "PreferArsenal": true,
+    "MinimumDistance": 3.0,
+    "MaximumDistance": 8.0,
+    "MaximumPlacementAttempts": 12,
+    "FallbackMaximumDistance": 25.0,
+    "FallbackPlacementAttempts": 24,
+    "EmergencyMaximumDistance": 50.0,
+    "EmergencyPlacementAttempts": 48,
+    "MaximumSlopeDegrees": 12.0,
+    "MinimumSeparation": 3.0,
+    "UseArsenalOrientation": true,
+    "RandomizeOrientation": false,
+    "DiagnosticLogging": false
+}

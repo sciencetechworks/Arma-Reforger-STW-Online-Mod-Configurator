@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "resupplyIntervalDays": 1,
+    "assistantAmmoResupplyIntervalHours": 2,
+    "healingProbabilityPercent": 20,
+    "healingAmountPercent": 25,
+    "allowPlayerManagedUnitResupply": false
+}

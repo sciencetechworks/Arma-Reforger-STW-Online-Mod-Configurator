@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "magazineMinimum": 5,
+    "magazineMaximum": 7,
+    "fragmentationGrenades": 3,
+    "smokeGrenades": 3,
+    "aaReloadCheckIntervalSeconds": 60,
+    "aaTransferDistanceMeters": 50,
+    "assistantMissileCount": 2
+}

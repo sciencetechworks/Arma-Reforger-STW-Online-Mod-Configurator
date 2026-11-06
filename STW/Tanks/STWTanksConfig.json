@@ -1,0 +1,43 @@
+{
+    "version": 6,
+    "targetUSTankCount": 1,
+    "targetAFRFTankCount": 3,
+    "minimumTankSeparation": 500.0,
+    "spawnAreaRadius": 130.0,
+    "maximumTerrainSlopeDegrees": 8.0,
+    "terrainSampleDistance": 6.0,
+    "obstacleClearanceRadius": 9.0,
+    "maximumNearbyVegetation": 2,
+    "maximumPlacementAttemptsPerArea": 24,
+    "showTankMarkers": false,
+    "showOwnCombatRequestMarkers": false,
+    "showAllCombatRequestMarkers": false,
+    "enableTankSupportChatMessages": true,
+    "enableTankSupportHintMessages": false,
+    "enableTankSupportSoundMessages": true,
+    "supportEtaExpiryMultiplier": 2.0,
+    "supportEtaExpiryMinimumSeconds": 120.0,
+    "usePreciseTankMarkerPositions": false,
+    "maximumTankMarkerOffset": 250.0,
+    "markerZoomThreshold": 1.5,
+    "generationDelaySeconds": 10,
+    "generationOperationIntervalSeconds": 2.0,
+    "crewAbsenceRecoverySeconds": 300.0,
+    "vehicleMaintenanceIntervalSeconds": 600.0,
+    "distanceSimulationRadiusMeters": 450.0,
+    "distantSimulationIntervalSeconds": 0.5,
+    "localDefenseEnabled": true,
+    "localDefenseDetectionRadius": 350.0,
+    "localDefenseEngagementRadius": 500.0,
+    "localDefenseResponseMoveRadius": 250.0,
+    "localDefenseMaximumRoamDistance": 400.0,
+    "preferredUSFactionKeys": [
+        "RHS_USAF"
+    ],
+    "preferredAFRFFactionKeys": [
+        "RHS_AFRF"
+    ],
+    "allowedTankEraTags": [
+        "POST_COLD_WAR"
+    ]
+}

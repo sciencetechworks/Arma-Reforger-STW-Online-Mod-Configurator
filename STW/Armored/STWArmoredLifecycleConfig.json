@@ -1,0 +1,4 @@
+{
+    "enableVehicleTTL": true,
+    "maxLifetimeSeconds": 10800
+}

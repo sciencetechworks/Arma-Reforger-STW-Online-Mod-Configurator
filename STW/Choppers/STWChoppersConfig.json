@@ -1,0 +1,48 @@
+{
+    "version": 2,
+    "factionHelicopterCaps": [
+        {
+            "factionKey": "US",
+            "maximumParkedHelicopters": 1
+        },
+        {
+            "factionKey": "USSR",
+            "maximumParkedHelicopters": 1
+        },
+        {
+            "factionKey": "RHS_USAF",
+            "maximumParkedHelicopters": 1
+        },
+        {
+            "factionKey": "RHS_AFRF",
+            "maximumParkedHelicopters": 1
+        }
+    ],
+    "generationDelaySeconds": 10,
+    "assignSpawnedHelicopterFaction": false,
+    "minimumHelicopterSeparation": 120.0,
+    "maximumTerrainSlopeDegrees": 5.0,
+    "terrainSampleDistance": 12.0,
+    "minimumWaterClearance": 40.0,
+    "additionalRotorClearance": 6.0,
+    "settlementAvoidanceRadius": 100.0,
+    "siteSearchRadius": 110.0,
+    "preferredSiteSearchRadius": 180.0,
+    "preferredSiteProbability": 0.75,
+    "minimumOpenTerrainDistanceFromAirfields": 650.0,
+    "minimumPreferredSiteSeparation": 400.0,
+    "maximumPlacementAttemptsPerArea": 20,
+    "preferredMaximumPlacementAttemptsPerArea": 80,
+    "allowGeneratedFallbackHelipads": true,
+    "spawnHelicoptersOnGeneratedHelipads": false,
+    "maximumGeneratedFallbackHelipads": 999,
+    "generatedHelipadProbability": 0.5,
+    "generatedHelipadPrefab": "",
+    "initialFuelPercentage": 1.0,
+    "showHelicopterMarkers": true,
+    "helicopterMarkerVisibility": "ALL",
+    "usePreciseHelicopterMarkerPositions": true,
+    "maximumHelicopterMarkerOffset": 250.0,
+    "markerZoomThreshold": 1.5,
+    "removeDestroyedHelicopterWrecks": false
+}

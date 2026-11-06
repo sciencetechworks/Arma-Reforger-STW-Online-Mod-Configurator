@@ -1,0 +1,24 @@
+{
+    "Version": 9,
+    "EnableSoundMessages": true,
+    "Enabled": true,
+    "EnableMarkerRequests": true,
+    "RequireGroupLeaderForMarkerRequests": true,
+    "MarkerScanIntervalSeconds": 2.0,
+    "MarkerProcessingDelaySeconds": 2.0,
+    "DefaultAltitudeAGL": 320.0,
+    "DefaultTimeToLiveMinutes": 30.0,
+    "MinimumSameFactionSeparation": 500.0,
+    "MaximumSpawnPointsPerFaction": 10,
+    "DefaultGameMasterFaction": "US",
+    "RequiredMarkerWords": [
+        "parachute"
+    ],
+    "SupportedFactions": [
+        "US",
+        "USSR",
+        "FIA",
+        "RHS_USAF",
+        "RHS_AFRF"
+    ]
+}

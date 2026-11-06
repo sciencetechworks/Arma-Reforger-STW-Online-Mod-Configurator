@@ -1,0 +1,245 @@
+{
+  "Version": 12,
+  "Enabled": true,
+  "ForcePlayableFactions": true,
+  "RestrictPlayableFactionsToConfigured": true,
+  "GenerateArsenals": true,
+  "GenerateMarkers": true,
+  "PersistenceEnabled": true,
+  "GenerationStartupDelaySeconds": 15,
+  "GenerationRevision": 1,
+  "Factions": [
+    {
+      "Enabled": false,
+      "factionKey": "RHS_USAF",
+      "SpawnPoint": {
+        "Enabled": true,
+        "Count": 3,
+        "Strategy": "MILITARY_POI",
+        "Prefab": "0CAE96554C7FEB3D",
+        "MinimumSeparation": 200,
+        "MinimumHostileSeparation": 300,
+        "MaximumSlopeDegrees": 12,
+        "MaximumPlacementAttempts": 300
+      },
+      "Arsenals": [
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "3970981B94D3F882",
+          "MinimumDistance": 3,
+          "MaximumDistance": 6
+        },
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "45C675ED3CFBBEC5",
+          "MinimumDistance": 7,
+          "MaximumDistance": 10
+        }
+      ],
+      "Marker": {
+        "Enabled": true,
+        "FactionOnly": true,
+        "Text": "Base",
+        "MarkerColor": 7
+      },
+      "InitialGroups": {
+        "Enabled": true,
+        "Count": 3,
+        "Role": "NONE"
+      }
+    },
+    {
+      "Enabled": false,
+      "factionKey": "RHS_ION",
+      "SpawnPoint": {
+        "Enabled": true,
+        "Count": 3,
+        "Strategy": "MILITARY_POI",
+        "Prefab": "F6678644B017C54D",
+        "MinimumSeparation": 200,
+        "MinimumHostileSeparation": 300,
+        "MaximumSlopeDegrees": 12,
+        "MaximumPlacementAttempts": 300
+      },
+      "Arsenals": [
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "691477161637ECDB",
+          "MinimumDistance": 3,
+          "MaximumDistance": 6
+        },
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "45C675ED3CFBBEC5",
+          "MinimumDistance": 7,
+          "MaximumDistance": 10
+        }
+      ],
+      "Marker": {
+        "Enabled": true,
+        "FactionOnly": true,
+        "Text": "Base",
+        "MarkerColor": 9
+      },
+      "InitialGroups": {
+        "Enabled": true,
+        "Count": 3,
+        "Role": "NONE"
+      }
+    },
+    {
+      "Enabled": true,
+      "factionKey": "RHS_AFRF",
+      "SpawnPoint": {
+        "Enabled": true,
+        "Count": 12,
+        "Strategy": "MILITARY_POI",
+        "Prefab": "E86B0E337506B044",
+        "MinimumSeparation": 1500,
+        "MinimumHostileSeparation": 300,
+        "MaximumSlopeDegrees": 12,
+        "MaximumPlacementAttempts": 300
+      },
+      "Arsenals": [
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "FB95D1B918E908A9",
+          "MinimumDistance": 3,
+          "MaximumDistance": 6
+        },
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "AD59EDEAA26CE792",
+          "MinimumDistance": 7,
+          "MaximumDistance": 10
+        }
+      ],
+      "Marker": {
+        "Enabled": true,
+        "FactionOnly": true,
+        "Text": "Base",
+        "MarkerColor": 3
+      },
+      "InitialGroups": {
+        "Enabled": true,
+        "Count": 3,
+        "Role": "NONE"
+      }
+    },
+    {
+      "Enabled": true,
+      "factionKey": "US",
+      "SpawnPoint": {
+        "Enabled": true,
+        "Count": 12,
+        "Strategy": "MILITARY_POI",
+        "Prefab": "5A2220DD0C16958B",
+        "MinimumSeparation": 1500,
+        "MinimumHostileSeparation": 300,
+        "MaximumSlopeDegrees": 12,
+        "MaximumPlacementAttempts": 300
+      },
+      "Arsenals": [
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "45C675ED3CFBBEC5",
+          "MinimumDistance": 3,
+          "MaximumDistance": 6
+        },
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "3970981B94D3F882",
+          "MinimumDistance": 3,
+          "MaximumDistance": 6
+        }
+      ],
+      "Marker": {
+        "Enabled": true,
+        "FactionOnly": true,
+        "Text": "Base",
+        "MarkerColor": 7
+      },
+      "InitialGroups": {
+        "Enabled": true,
+        "Count": 3,
+        "Role": "NONE"
+      }
+    },
+    {
+      "Enabled": false,
+      "factionKey": "USSR",
+      "SpawnPoint": {
+        "Enabled": true,
+        "Count": 3,
+        "Strategy": "MILITARY_POI",
+        "Prefab": "4FEA25583D0975F7",
+        "MinimumSeparation": 200,
+        "MinimumHostileSeparation": 300,
+        "MaximumSlopeDegrees": 12,
+        "MaximumPlacementAttempts": 300
+      },
+      "Arsenals": [
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "AD59EDEAA26CE792",
+          "MinimumDistance": 3,
+          "MaximumDistance": 6
+        }
+      ],
+      "Marker": {
+        "Enabled": true,
+        "FactionOnly": true,
+        "Text": "Base",
+        "MarkerColor": 3
+      },
+      "InitialGroups": {
+        "Enabled": true,
+        "Count": 3,
+        "Role": "NONE"
+      }
+    },
+    {
+      "Enabled": false,
+      "factionKey": "FIA",
+      "SpawnPoint": {
+        "Enabled": true,
+        "Count": 3,
+        "Strategy": "MILITARY_POI",
+        "Prefab": "2B1758F237E4820E",
+        "MinimumSeparation": 200,
+        "MinimumHostileSeparation": 300,
+        "MaximumSlopeDegrees": 12,
+        "MaximumPlacementAttempts": 300
+      },
+      "Arsenals": [
+        {
+          "Enabled": true,
+          "SpawnProbabilityPercent": 100,
+          "Prefab": "B53B98CEA2D72735",
+          "MinimumDistance": 3,
+          "MaximumDistance": 6
+        }
+      ],
+      "Marker": {
+        "Enabled": true,
+        "FactionOnly": true,
+        "Text": "Base",
+        "MarkerColor": 6
+      },
+      "InitialGroups": {
+        "Enabled": true,
+        "Count": 3,
+        "Role": "NONE"
+      }
+    }
+  ]
+}

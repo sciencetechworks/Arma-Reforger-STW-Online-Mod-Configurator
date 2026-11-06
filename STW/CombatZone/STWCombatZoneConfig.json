@@ -1,0 +1,34 @@
+{
+    "version": 1,
+    "enabled": true,
+    "minimumDetectedContacts": 1,
+    "contactRetentionSeconds": 75.0,
+    "staleGraceSeconds": 120.0,
+    "baseRadiusMeters": 180.0,
+    "minimumRadiusMeters": 180.0,
+    "maximumRadiusMeters": 700.0,
+    "dispersionMultiplier": 1.0,
+    "maximumActiveZones": 2,
+    "maximumGroupsPerZone": 2,
+    "minimumDispatchSeconds": 35,
+    "maximumDispatchSeconds": 75,
+    "spawnOutsideBubbleMinimumMeters": 150.0,
+    "spawnOutsideBubbleMaximumMeters": 350.0,
+    "playerSafetyDistanceMeters": 120.0,
+    "playerLeaveGraceSeconds": 30.0,
+    "despawnDistanceMeters": 1200.0,
+    "minimumGroupsPerZone": 1,
+    "sustainedDetectionIntervalSeconds": 120,
+    "groupTargetDecaySeconds": 180,
+    "antiTankProbability": 0.15000000596046449,
+    "squadSize": 4,
+    "factionPolicy": "MIXED",
+    "factions": [
+        "US",
+        "USSR"
+    ],
+    "factionWeights": [
+        50.0,
+        50.0
+    ]
+}

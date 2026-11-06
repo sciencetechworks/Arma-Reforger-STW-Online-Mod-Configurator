@@ -1,0 +1,39 @@
+{
+    "signature": "STW_PERSISTENT_CRATES",
+    "version": 2,
+    "crates": [
+        {
+            "version": 2,
+            "inventoryFormat": "STW_INVENTORY_TREE_V2_4",
+            "persistentId": "STW_CRATE_76799_1",
+            "position": [
+                1757.8609619140626,
+                39.0,
+                2845.568115234375
+            ],
+            "angles": [
+                -0.000005008955668017734,
+                0.0,
+                -0.0
+            ],
+            "initialMarkerPosition": [
+                1757.8609619140626,
+                39.0,
+                2845.568115234375
+            ],
+            "capacity": 100,
+            "factionKey": "",
+            "items": [
+				{
+                            "prefab": "{5028D9E699AE3A73}Prefabs/Items/Equipment/Kits/RearmingKit_01/RearmingKit_01_US.et",
+							 "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                }
+            ]
+        }
+    ],
+    "tombstones": []
+}

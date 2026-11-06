@@ -1,0 +1,25 @@
+{
+  "Version": 1,
+  "Enabled": true,
+  "PlacementMode": "NORMAL",
+  "AllowFrontline": true,
+  "AllowNeutral": false,
+  "FactionMappings": [
+    {
+      "DacSide": "RED",
+      "BasesFactionKey": "USSR"
+    },
+    {
+      "DacSide": "BLUE",
+      "BasesFactionKey": "US"
+    },
+    {
+      "DacSide": "RED",
+      "BasesFactionKey": "RHS_AFRF"
+    },
+    {
+      "DacSide": "BLUE",
+      "BasesFactionKey": "RHS_USAF"
+    }
+  ]
+}

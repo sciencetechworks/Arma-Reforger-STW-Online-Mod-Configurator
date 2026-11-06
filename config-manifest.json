@@ -1,0 +1,402 @@
+[
+  {
+    "path": "STW/AntiAir/AutoPairs/STWAntiAirPairAutoConfig.json",
+    "folder": "AntiAir/AutoPairs",
+    "name": "STWAntiAirPairAutoConfig.json"
+  },
+  {
+    "path": "STW/AntiAir/StructuralOverwatch/STWAntiAirStructuralOverwatchConfig.json",
+    "folder": "AntiAir/StructuralOverwatch",
+    "name": "STWAntiAirStructuralOverwatchConfig.json"
+  },
+  {
+    "path": "STW/AntiAir/STWAntiAirTeamConfig.json",
+    "folder": "AntiAir",
+    "name": "STWAntiAirTeamConfig.json"
+  },
+  {
+    "path": "STW/AntiAir/Support/STWAntiAirTeamSupportConfig.json",
+    "folder": "AntiAir/Support",
+    "name": "STWAntiAirTeamSupportConfig.json"
+  },
+  {
+    "path": "STW/Armored/STWArmoredConfig.json",
+    "folder": "Armored",
+    "name": "STWArmoredConfig.json"
+  },
+  {
+    "path": "STW/Armored/STWArmoredFuelSupportConfig.json",
+    "folder": "Armored",
+    "name": "STWArmoredFuelSupportConfig.json"
+  },
+  {
+    "path": "STW/Armored/STWArmoredLifecycleConfig.json",
+    "folder": "Armored",
+    "name": "STWArmoredLifecycleConfig.json"
+  },
+  {
+    "path": "STW/Armored/STWArmoredPatrolConfig.json",
+    "folder": "Armored",
+    "name": "STWArmoredPatrolConfig.json"
+  },
+  {
+    "path": "STW/Armored/STWArmoredRearm.json",
+    "folder": "Armored",
+    "name": "STWArmoredRearm.json"
+  },
+  {
+    "path": "STW/Armored/STWArmoredRespawnConfig.json",
+    "folder": "Armored",
+    "name": "STWArmoredRespawnConfig.json"
+  },
+  {
+    "path": "STW/Bases/STWBasesConfig.json",
+    "folder": "Bases",
+    "name": "STWBasesConfig.json"
+  },
+  {
+    "path": "STW/BasesCratesIntegration/STWBasesCratesIntegrationConfig.json",
+    "folder": "BasesCratesIntegration",
+    "name": "STWBasesCratesIntegrationConfig.json"
+  },
+  {
+    "path": "STW/BasesCratesIntegration/STWBasesCratesIntegrationConfigOLD.json",
+    "folder": "BasesCratesIntegration",
+    "name": "STWBasesCratesIntegrationConfigOLD.json"
+  },
+  {
+    "path": "STW/Boats/STWBoatsConfig.json",
+    "folder": "Boats",
+    "name": "STWBoatsConfig.json"
+  },
+  {
+    "path": "STW/Boats/STWBoatsRespawnConfig.json",
+    "folder": "Boats",
+    "name": "STWBoatsRespawnConfig.json"
+  },
+  {
+    "path": "STW/Choppers/STWChoppersConfig.json",
+    "folder": "Choppers",
+    "name": "STWChoppersConfig.json"
+  },
+  {
+    "path": "STW/Choppers/STWChoppersFuelSupportConfig.json",
+    "folder": "Choppers",
+    "name": "STWChoppersFuelSupportConfig.json"
+  },
+  {
+    "path": "STW/Civilians/STWCiviliansConfig.json",
+    "folder": "Civilians",
+    "name": "STWCiviliansConfig.json"
+  },
+  {
+    "path": "STW/CombatHelipadsLight/STWCombatHelipadsLightConfig.json",
+    "folder": "CombatHelipadsLight",
+    "name": "STWCombatHelipadsLightConfig.json"
+  },
+  {
+    "path": "STW/CombatKnowledge/STWCombatKnowledgeBehavior.json",
+    "folder": "CombatKnowledge",
+    "name": "STWCombatKnowledgeBehavior.json"
+  },
+  {
+    "path": "STW/CombatKnowledge/STWCombatKnowledgeConfig.json",
+    "folder": "CombatKnowledge",
+    "name": "STWCombatKnowledgeConfig.json"
+  },
+  {
+    "path": "STW/CombatZone/STWCombatZoneConfig.json",
+    "folder": "CombatZone",
+    "name": "STWCombatZoneConfig.json"
+  },
+  {
+    "path": "STW/Comeback/STWComebackConfiguration.json",
+    "folder": "Comeback",
+    "name": "STWComebackConfiguration.json"
+  },
+  {
+    "path": "STW/Convoy/STWConvoyConfiguration.json",
+    "folder": "Convoy",
+    "name": "STWConvoyConfiguration.json"
+  },
+  {
+    "path": "STW/CQB/STWCQBConfiguration.json",
+    "folder": "CQB",
+    "name": "STWCQBConfiguration.json"
+  },
+  {
+    "path": "STW/CQB/STWCQBRearm.json",
+    "folder": "CQB",
+    "name": "STWCQBRearm.json"
+  },
+  {
+    "path": "STW/Crates/Catalogs/STWRandomCratesApparel.json",
+    "folder": "Crates/Catalogs",
+    "name": "STWRandomCratesApparel.json"
+  },
+  {
+    "path": "STW/Crates/Catalogs/STWRandomCratesWeapons.json",
+    "folder": "Crates/Catalogs",
+    "name": "STWRandomCratesWeapons.json"
+  },
+  {
+    "path": "STW/Crates/STWCratesConfig.json",
+    "folder": "Crates",
+    "name": "STWCratesConfig.json"
+  },
+  {
+    "path": "STW/Crates/STWRandomCrates.json",
+    "folder": "Crates",
+    "name": "STWRandomCrates.json"
+  },
+  {
+    "path": "STW/DivideAndConquer/DroneSpecialForcesResponseConfig.json",
+    "folder": "DivideAndConquer",
+    "name": "DroneSpecialForcesResponseConfig.json"
+  },
+  {
+    "path": "STW/DivideAndConquer/STW_DivideAndConquerCampaignConfig.json",
+    "folder": "DivideAndConquer",
+    "name": "STW_DivideAndConquerCampaignConfig.json"
+  },
+  {
+    "path": "STW/DivideAndConquer/STWBasesDivideAndConquerConfiguration.json",
+    "folder": "DivideAndConquer",
+    "name": "STWBasesDivideAndConquerConfiguration.json"
+  },
+  {
+    "path": "STW/DivideAndConquer/STWDivideAndConquerStrongholdBehavior.json",
+    "folder": "DivideAndConquer",
+    "name": "STWDivideAndConquerStrongholdBehavior.json"
+  },
+  {
+    "path": "STW/DivideAndConquer/SurveillanceBridge/STWSurveillanceBridgeBehaviour.json",
+    "folder": "DivideAndConquer/SurveillanceBridge",
+    "name": "STWSurveillanceBridgeBehaviour.json"
+  },
+  {
+    "path": "STW/Experience/STWExperienceConfig.json",
+    "folder": "Experience",
+    "name": "STWExperienceConfig.json"
+  },
+  {
+    "path": "STW/Experience/STWExperienceDiscordDashboard.json",
+    "folder": "Experience",
+    "name": "STWExperienceDiscordDashboard.json"
+  },
+  {
+    "path": "STW/Experience/STWExperienceRanks.json",
+    "folder": "Experience",
+    "name": "STWExperienceRanks.json"
+  },
+  {
+    "path": "STW/Experience/STWExperienceVehicleKillCategories.json",
+    "folder": "Experience",
+    "name": "STWExperienceVehicleKillCategories.json"
+  },
+  {
+    "path": "STW/FPVDrone/STW_FpvDroneConfig.json",
+    "folder": "FPVDrone",
+    "name": "STW_FpvDroneConfig.json"
+  },
+  {
+    "path": "STW/GarbageSystem/LoneWolfRemoval/STWLoneWolfRemovalConfig.json",
+    "folder": "GarbageSystem/LoneWolfRemoval",
+    "name": "STWLoneWolfRemovalConfig.json"
+  },
+  {
+    "path": "STW/GarbageSystem/STWGarbageSystemConfig.json",
+    "folder": "GarbageSystem",
+    "name": "STWGarbageSystemConfig.json"
+  },
+  {
+    "path": "STW/HeavyWeapons/STWAutoPopulationConfig.json",
+    "folder": "HeavyWeapons",
+    "name": "STWAutoPopulationConfig.json"
+  },
+  {
+    "path": "STW/HeavyWeapons/STWHeavyWeaponsRespawnConfig.json",
+    "folder": "HeavyWeapons",
+    "name": "STWHeavyWeaponsRespawnConfig.json"
+  },
+  {
+    "path": "STW/HeavyWeapons/STWHeavyWeaponsSystemConfig.json",
+    "folder": "HeavyWeapons",
+    "name": "STWHeavyWeaponsSystemConfig.json"
+  },
+  {
+    "path": "STW/HeavyWeapons/STWMortarFireConfig.json",
+    "folder": "HeavyWeapons",
+    "name": "STWMortarFireConfig.json"
+  },
+  {
+    "path": "STW/HeavyWeapons/STWMortarTerrainConfig.json",
+    "folder": "HeavyWeapons",
+    "name": "STWMortarTerrainConfig.json"
+  },
+  {
+    "path": "STW/LightVehicles/STWLightVehicleRearm.json",
+    "folder": "LightVehicles",
+    "name": "STWLightVehicleRearm.json"
+  },
+  {
+    "path": "STW/LightVehicles/STWLightVehiclesConfig.json",
+    "folder": "LightVehicles",
+    "name": "STWLightVehiclesConfig.json"
+  },
+  {
+    "path": "STW/LightVehicles/STWLightVehiclesRespawnConfig.json",
+    "folder": "LightVehicles",
+    "name": "STWLightVehiclesRespawnConfig.json"
+  },
+  {
+    "path": "STW/Minefields/STWMinefieldsConfig.json",
+    "folder": "Minefields",
+    "name": "STWMinefieldsConfig.json"
+  },
+  {
+    "path": "STW/Minefields/STWMinefieldsScannerSettings.json",
+    "folder": "Minefields",
+    "name": "STWMinefieldsScannerSettings.json"
+  },
+  {
+    "path": "STW/Minefields/STWMinefieldsScannerTargets.json",
+    "folder": "Minefields",
+    "name": "STWMinefieldsScannerTargets.json"
+  },
+  {
+    "path": "STW/MobileSpawn/STWMobileSpawnConfig.json",
+    "folder": "MobileSpawn",
+    "name": "STWMobileSpawnConfig.json"
+  },
+  {
+    "path": "STW/ParachuteDrop/CratesContent/STWExplosivesAndMinesUS_USSR.json",
+    "folder": "ParachuteDrop/CratesContent",
+    "name": "STWExplosivesAndMinesUS_USSR.json"
+  },
+  {
+    "path": "STW/ParachuteDrop/CratesContent/STWMedicalCrateContentsUS.json",
+    "folder": "ParachuteDrop/CratesContent",
+    "name": "STWMedicalCrateContentsUS.json"
+  },
+  {
+    "path": "STW/ParachuteDrop/CratesContent/STWMedicalCrateContentsUSSR.json",
+    "folder": "ParachuteDrop/CratesContent",
+    "name": "STWMedicalCrateContentsUSSR.json"
+  },
+  {
+    "path": "STW/ParachuteDrop/CratesContent/US Ammo (Compact Support Kits).json",
+    "folder": "ParachuteDrop/CratesContent",
+    "name": "US Ammo (Compact Support Kits).json"
+  },
+  {
+    "path": "STW/ParachuteDrop/STWParachuteDropConfig.json",
+    "folder": "ParachuteDrop",
+    "name": "STWParachuteDropConfig.json"
+  },
+  {
+    "path": "STW/ParachuteSpawn/STWLiveTeleportConfig.json",
+    "folder": "ParachuteSpawn",
+    "name": "STWLiveTeleportConfig.json"
+  },
+  {
+    "path": "STW/ParachuteSpawn/STWParachutesConfig.json",
+    "folder": "ParachuteSpawn",
+    "name": "STWParachutesConfig.json"
+  },
+  {
+    "path": "STW/RoadNetwork/STWRoadNetworkConfig.json",
+    "folder": "RoadNetwork",
+    "name": "STWRoadNetworkConfig.json"
+  },
+  {
+    "path": "STW/Snipers/AutoPairs/STWSniperPairAutoConfig.json",
+    "folder": "Snipers/AutoPairs",
+    "name": "STWSniperPairAutoConfig.json"
+  },
+  {
+    "path": "STW/Snipers/StructuralOverwatch/STWSniperStructuralOverwatchConfig.json",
+    "folder": "Snipers/StructuralOverwatch",
+    "name": "STWSniperStructuralOverwatchConfig.json"
+  },
+  {
+    "path": "STW/Snipers/STWSnipersConfig.json",
+    "folder": "Snipers",
+    "name": "STWSnipersConfig.json"
+  },
+  {
+    "path": "STW/Snipers/Support/STWSnipersSupportConfig.json",
+    "folder": "Snipers/Support",
+    "name": "STWSnipersSupportConfig.json"
+  },
+  {
+    "path": "STW/SpecialForces/STW_SpecialForcesConfig.json",
+    "folder": "SpecialForces",
+    "name": "STW_SpecialForcesConfig.json"
+  },
+  {
+    "path": "STW/Stronghold/STWAutoStrongholdConfig.json",
+    "folder": "Stronghold",
+    "name": "STWAutoStrongholdConfig.json"
+  },
+  {
+    "path": "STW/Stronghold/STWStrongholdConfig.json",
+    "folder": "Stronghold",
+    "name": "STWStrongholdConfig.json"
+  },
+  {
+    "path": "STW/Stronghold/STWStrongholdJeepFuelConfig.json",
+    "folder": "Stronghold",
+    "name": "STWStrongholdJeepFuelConfig.json"
+  },
+  {
+    "path": "STW/Tanks/STWTanksConfig.json",
+    "folder": "Tanks",
+    "name": "STWTanksConfig.json"
+  },
+  {
+    "path": "STW/Tanks/STWTanksFuelSupportConfig.json",
+    "folder": "Tanks",
+    "name": "STWTanksFuelSupportConfig.json"
+  },
+  {
+    "path": "STW/Tanks/STWTanksRespawnConfig.json",
+    "folder": "Tanks",
+    "name": "STWTanksRespawnConfig.json"
+  },
+  {
+    "path": "STW/Tanks/STWTanksSpawnerRearm.json",
+    "folder": "Tanks",
+    "name": "STWTanksSpawnerRearm.json"
+  },
+  {
+    "path": "STW/TaskCommander/STWSatelliteScan.json",
+    "folder": "TaskCommander",
+    "name": "STWSatelliteScan.json"
+  },
+  {
+    "path": "STW/TaskCommander/STWTaskCommanderConfig.json",
+    "folder": "TaskCommander",
+    "name": "STWTaskCommanderConfig.json"
+  },
+  {
+    "path": "STW/TransportHelipads/STWTransportHelipadsConfig.json",
+    "folder": "TransportHelipads",
+    "name": "STWTransportHelipadsConfig.json"
+  },
+  {
+    "path": "STW/Trucks/STWTrucksConfig.json",
+    "folder": "Trucks",
+    "name": "STWTrucksConfig.json"
+  },
+  {
+    "path": "STW/Zombies/STWZombieProbabilities.json",
+    "folder": "Zombies",
+    "name": "STWZombieProbabilities.json"
+  },
+  {
+    "path": "STW/Zombies/STWZombiesConfig.json",
+    "folder": "Zombies",
+    "name": "STWZombiesConfig.json"
+  }
+]

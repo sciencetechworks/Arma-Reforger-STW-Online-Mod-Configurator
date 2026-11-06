@@ -1,0 +1,36 @@
+{
+    "version": 15,
+    "automaticPairGeneratorEnabled": true,
+    "cacheTileSizeMeters": 500.0,
+    "cacheTilesPerBatch": 1,
+    "cacheBatchIntervalSeconds": 0.5,
+    "minimumCandidateElevationMeters": 8.0,
+    "maximumCachedCandidates": 160,
+    "initialPairSearchRadiusMeters": 350.0,
+    "maximumActivePairsPerFaction": 4,
+    "maximumInitialPairsTotal": 8,
+    "destroyedPairRespawnMinimumMinutes": 30.0,
+    "destroyedPairRespawnMaximumMinutes": 60.0,
+    "pairSpawnExclusionRadiusMeters": 1200.0,
+    "pairOperatingAreaRadiusMeters": 45.0,
+    "pairRelocationEnabled": true,
+    "pairGuardMinimumHours": 1.0,
+    "pairGuardMaximumHours": 3.0,
+    "pairRelocationMinimumDistanceKilometers": 1.5,
+    "pairRelocationMaximumDistanceKilometers": 8.0,
+    "pairRelocationArrivalTimeoutMinutes": 30.0,
+    "pairRelocationCooldownMinutes": 15.0,
+    "intelligenceReportsEnabled": true,
+    "intelligenceInitialReportDelayMinutes": 15.0,
+    "intelligenceReportMinimumHours": 2.0,
+    "intelligenceReportMaximumHours": 4.0,
+    "intelligenceReportUncertaintyRadiusMeters": 250.0,
+    "intelligenceMarkerLifetimeMinutes": 150.0,
+    "enabledFactionKeys": [
+        "RHS_AFRF",
+        "RHS_USAF"
+    ],
+    "excludedFactionKeys": [
+        "CIV"
+    ]
+}

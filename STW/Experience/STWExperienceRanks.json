@@ -1,0 +1,58 @@
+{
+    "signature": "STWExperienceRanks",
+    "version": 1,
+    "ranks": [
+        {
+            "xpRequired": 0,
+            "name": "Recruit"
+        },
+        {
+            "xpRequired": 1200,
+            "name": "Soldier II"
+        },
+        {
+            "xpRequired": 2200,
+            "name": "Soldier III"
+        },
+        {
+            "xpRequired": 3600,
+            "name": "Corporal"
+        },
+        {
+            "xpRequired": 5500,
+            "name": "Senior Corporal"
+        },
+        {
+            "xpRequired": 7800,
+            "name": "Sergeant II"
+        },
+        {
+            "xpRequired": 10500,
+            "name": "Sergeant First Class"
+        },
+        {
+            "xpRequired": 13800,
+            "name": "Warrant Officer"
+        },
+        {
+            "xpRequired": 17600,
+            "name": "Sergeant Major"
+        },
+        {
+            "xpRequired": 22000,
+            "name": "Lieutenant"
+        },
+        {
+            "xpRequired": 27000,
+            "name": "Captain"
+        },
+        {
+            "xpRequired": 32500,
+            "name": "Major"
+        },
+        {
+            "xpRequired": 38600,
+            "name": "Colonel"
+        }
+    ]
+}

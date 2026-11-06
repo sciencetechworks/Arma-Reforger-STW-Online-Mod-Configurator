@@ -1,0 +1,15 @@
+{
+    "enableSurveillanceDiagnosticTest": false,
+    "enabled": true,
+    "baseProbability": 0.10000000149011612,
+    "maximumProbability": 0.75,
+    "rampDurationSeconds": 180.0,
+    "minimumExposureSeconds": 10.0,
+    "evaluationCooldownSeconds": 30.0,
+    "regularParticipantMultiplier": 1.0,
+    "stwSniperMultiplier": 0.25,
+    "patrolOwnedWeight": 0.20000000298023225,
+    "patrolFrontlineWeight": 0.7799999713897705,
+    "patrolExplorationWeight": 0.019999999552965165,
+    "directWholeCellSurveillanceFallback": false
+}

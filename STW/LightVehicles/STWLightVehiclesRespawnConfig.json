@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "enabled": true,
+    "minimumRespawnMinutes": 3.0,
+    "maximumRespawnMinutes": 5.0,
+    "playerSafeRadiusMeters": 1500.0,
+    "minimumSpawnSeparationMeters": 400.0,
+    "candidateAttempts": 16,
+    "retryDelayMinutes": 5.0
+}

@@ -1,0 +1,775 @@
+{
+    "signature": "STW_PERSISTENT_CRATES",
+    "version": 2,
+    "crates": [
+        {
+            "version": 2,
+            "inventoryFormat": "STW_INVENTORY_TREE_V2_4",
+            "persistentId": "STW_CRATE_36958_1",
+            "position": [
+                1742.9315185546876,
+                39.00002670288086,
+                2859.297607421875
+            ],
+            "angles": [
+                -0.000005008955668017734,
+                0.0,
+                -0.0
+            ],
+            "initialMarkerPosition": [
+                1742.9315185546876,
+                39.00002670288086,
+                2859.297607421875
+            ],
+            "capacity": 100,
+            "factionKey": "",
+            "items": [
+                {
+                    "prefab": "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{21EF98BFC1EB3793}Prefabs/Items/Equipment/Kits/MedicalKit_01/MedicalKit_01_USSR.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{21EF98BFC1EB3793}Prefabs/Items/Equipment/Kits/MedicalKit_01/MedicalKit_01_USSR.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{21EF98BFC1EB3793}Prefabs/Items/Equipment/Kits/MedicalKit_01/MedicalKit_01_USSR.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{21EF98BFC1EB3793}Prefabs/Items/Equipment/Kits/MedicalKit_01/MedicalKit_01_USSR.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "prefab": "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et",
+                    "storageSlot": -1,
+                    "slotId": -1,
+                    "magazineAmmo": -1,
+                    "healthScaled": -1.0,
+                    "children": [
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        },
+                        {
+                            "prefab": "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et",
+                            "storageSlot": -1,
+                            "slotId": -1,
+                            "magazineAmmo": -1,
+                            "healthScaled": -1.0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "tombstones": []
+}

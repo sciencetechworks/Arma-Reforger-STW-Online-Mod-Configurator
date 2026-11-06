@@ -1,0 +1,13 @@
+{
+    "Version": 3,
+    "Enabled": true,
+    "RequireGroupLeader": false,
+    "AllowFromVehicle": false,
+    "RequireConfirmation": true,
+    "CancelOnDamage": true,
+    "EnableCombatLockout": false,
+    "RequireRecognizedParachute": true,
+    "CountdownSeconds": 3.0,
+    "MaximumMovementDuringCountdown": 1.0,
+    "CooldownSeconds": 300.0
+}

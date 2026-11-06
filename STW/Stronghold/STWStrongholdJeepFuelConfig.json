@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "checkIntervalMinutes": 20,
+    "refuelThreshold": 0.3499999940395355,
+    "refillMinimum": 0.44999998807907107,
+    "refillMaximum": 0.800000011920929
+}

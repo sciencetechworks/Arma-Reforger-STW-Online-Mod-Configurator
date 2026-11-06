@@ -1,0 +1,39 @@
+{
+    "version": 1,
+    "automaticPopulationEnabled": false,
+    "runtimeReconciliationSeconds": 90,
+    "machineGunPostChancePercent": 33,
+    "mortarPostChancePercent": 33,
+    "minimumSoldiersPerPost": 1,
+    "maximumSoldiersPerPost": 3,
+    "factionExclusionRadiusMeters": 500.0,
+    "arsenalDistanceMinMeters": 1.0,
+    "arsenalDistanceMaxMeters": 1.5,
+    "guardDistanceMinMeters": 15.0,
+    "guardDistanceMaxMeters": 25.0,
+    "enableGuardDefendActivity": false,
+    "machineGunFactionWeights": [
+        {
+            "factionKey": "RHS_AFRF",
+            "weight": 100
+        }
+    ],
+    "mortarFactionWeights": [
+        {
+            "factionKey": "RHS_AFRF",
+            "weight": 70
+        },
+        {
+            "factionKey": "RHS_USAF",
+            "weight": 10
+        },
+        {
+            "factionKey": "US",
+            "weight": 10
+        },
+        {
+            "factionKey": "USSR",
+            "weight": 10
+        }
+    ]
+}

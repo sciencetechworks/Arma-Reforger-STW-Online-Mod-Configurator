@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "enabled": true,
+    "intervalMinutes": 45,
+    "primaryMagazineCount": 7,
+    "handgunMagazineCount": 3,
+    "launcherAmmoCount": 3,
+    "fragmentationGrenadeCount": 3,
+    "smokeGrenadeCount": 2
+}

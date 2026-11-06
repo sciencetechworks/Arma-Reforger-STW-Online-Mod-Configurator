@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "scanTileSizeMeters": 500.0,
+    "entranceZoneRadiusMeters": 3.0,
+    "entranceLateralOffsetMeters": 0.8999999761581421,
+    "randomizePlacementEachGeneration": true,
+    "clusterProbability": 0.25,
+    "maximumMinesPerCluster": 3,
+    "clusterRadiusMeters": 0.6499999761581421,
+    "roadLateralOffsetMeters": 0.75,
+    "allowBridgeRoadMines": true,
+    "bridgeDetectionHeightMeters": 0.25,
+    "bridgeLateralOffsetMeters": 0.4000000059604645,
+    "requireMilitaryPoi": true,
+    "militaryPoiAssociationRadiusMeters": 180.0,
+    "allowBurying": true,
+    "safeZonesEnabled": true,
+    "safeZoneRadius": 300.0,
+    "minimumSpacingMeters": 8.0,
+    "maximumSlopeDegrees": 25.0,
+    "rejectWater": true,
+    "previewPointsPerZone": 8
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "targetBoatCount": 3,
+    "minimumWaterDepth": 1.5,
+    "minimumBoatSeparation": 500.0,
+    "minimumDistanceFromPOI": 10.0,
+    "maximumDistanceFromPOI": 80.0,
+    "maximumPlacementAttemptsPerPOI": 24,
+    "showBoatMarkers": true,
+    "markerZoomThreshold": 1.5,
+    "preciseMarkerPositions": false,
+    "maximumMarkerOffsetDistance": 75.0,
+    "generationDelaySeconds": 10
+}

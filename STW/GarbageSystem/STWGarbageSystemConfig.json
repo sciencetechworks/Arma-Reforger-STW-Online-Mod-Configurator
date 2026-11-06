@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "destroyedVehicleLifetimeMinutes": 120,
+    "deadBodyLifetimeMinutes": 60,
+    "inventoryItemLifetimeMinutes": 60,
+    "aggressivePassIntervalMinutes": 15,
+    "aggressiveDespawnDistanceMeters": 1500,
+    "aggressiveLimboRespawnDistanceMeters": 1200,
+    "aggressiveAutoActivation": true,
+    "aggressiveAutoActivationPopulation": 200,
+    "cleanupMaxEntitiesPerFrame": 2,
+    "cleanupMaxMillisecondsPerFrame": 0.5,
+    "cleanupMaintenanceIntervalSeconds": 300,
+    "cleanupDebugLogging": true
+}

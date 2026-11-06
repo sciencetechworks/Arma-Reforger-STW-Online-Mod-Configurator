@@ -1,0 +1,15 @@
+{
+    "signature": "STW_CRATES_CONFIG",
+    "version": 1,
+    "persistenceEnabled": true,
+    "persistenceIntervalMinutes": 60,
+    "staticMarkersEnabled": true,
+    "markerZoomThreshold": 1.5,
+    "restoreStartDelayMilliseconds": 120000,
+    "restoreBatchSize": 1,
+    "restoreBatchDelayMilliseconds": 5,
+    "removeEmptyCratesOnRecovery": true,
+    "destroyedCrateContentsMode": "scatter",
+    "destroyedCrateMaximumRecoverableItems": 40,
+    "destroyedCrateScatterRadius": 4.0
+}

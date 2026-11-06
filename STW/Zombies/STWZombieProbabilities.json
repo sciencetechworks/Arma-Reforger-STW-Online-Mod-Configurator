@@ -1,0 +1,18 @@
+[
+    {
+        "prefab": "{A07B0E7A0F1000D0}Prefabs/Characters/Factions/INDFOR/Z/Character_Z_Shambler.et",
+        "probability": 0.699999988079071
+    },
+    {
+        "prefab": "{A07B0E7A0F1000D2}Prefabs/Characters/Factions/INDFOR/Z/Character_Z_Sprinter.et",
+        "probability": 0.20000000298023225
+    },
+    {
+        "prefab": "{A07B0E7A0F1000D6}Prefabs/Characters/Factions/INDFOR/Z/Character_Z_Feral.et",
+        "probability": 0.10000000149011612
+    },
+    {
+        "prefab": "{8B1D2E3F4A5C6D10}Prefabs/Characters/Factions/INDFOR/Outbreak/Character_Giant.et",
+        "probability": 0.029999999329447748
+    }
+]

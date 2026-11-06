@@ -1,0 +1,27 @@
+{
+    "configurationVersion": 6,
+    "automaticGenerationFactions": [
+        "RHS_AFRF"
+    ],
+    "automaticGenerationEnabled": true,
+    "sleepWakeEnabled": true,
+    "fpvDronesEnabled": true,
+    "markersEnabled": true,
+    "markerCircumferenceEnabled": true,
+    "markerCircumferenceRadiusMeters": 200.0,
+    "markerCircumferenceFillEnabled": false,
+    "markerCircumferenceFillAlpha": 60,
+    "markerCircumferenceBorderWidth": 2.0,
+    "markerCircumferenceBorderAlpha": 255,
+    "enableChatMessages": true,
+    "enableHintMessages": true,
+    "minimumTeamSize": 4,
+    "maximumTeamSize": 12,
+    "rpgProbability": 0.15000000596046449,
+    "markerApproximationRadiusMeters": 200.0,
+    "markerZoomThreshold": 0.75,
+    "maximumActiveTeams": 9,
+    "minimumTeamSeparationMeters": 600.0,
+    "playerExclusionRadiusMeters": 300.0,
+    "nightVisionProbability": 0.8500000238418579
+}

@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "enabled": true,
+    "minimumGunnerRespawnMinutes": 30,
+    "maximumGunnerRespawnMinutes": 60,
+    "minimumPostRespawnMinutes": 45,
+    "maximumPostRespawnMinutes": 90,
+    "playerSafeRadiusMeters": 1500.0,
+    "candidateAttempts": 12,
+    "retryDelayMinutes": 5
+}

@@ -1,0 +1,32 @@
+{
+    "signature": "STWExperienceConfig",
+    "version": 9,
+    "enabled": true,
+    "timeTickMinutes": 5,
+    "xpNotificationTickMinutes": 60,
+    "connectedXpPerHour": 6,
+    "combatXpEnabled": true,
+    "enemySoldierXp": 25,
+    "friendlySoldierXp": -100,
+    "civilianSoldierXp": -150,
+    "combatNotificationDelayMinimumSeconds": 30,
+    "combatNotificationDelayMaximumSeconds": 45,
+    "enemyCombatKillNotificationInterval": 10,
+    "notificationsEnabled": true,
+    "chatMessagesEnabled": true,
+    "civilianFactionKeys": [
+        "CIV"
+    ],
+    "debugVehiclePrefabLogging": false,
+    "allowNegativeXp": false,
+    "notificationSeconds": 4.0,
+    "leaderboardEnabled": true,
+    "leaderboardTopEntries": 5,
+    "leaderboardShowPlayerNames": true,
+    "discordReportingEnabled": true,
+    "discordWebhookUrl": "",
+    "discordLeaderboardReportIntervalHours": 1,
+    "discordShowPlayerNames": true,
+    "adminIdentities": [],
+    "adminMaximumXpAdjustment": 100000
+}
