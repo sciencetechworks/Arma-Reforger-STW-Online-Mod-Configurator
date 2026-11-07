@@ -57,8 +57,7 @@
     "debugLogging": false,
     "arsenalProbabilityPercent": 15,
     "enabledFactionKeys": [
-        "RHS_AFRF",
-        "PLASTICBANDIT"
+        "RHS_AFRF"
     ],
     "locationBlacklistTokens": [],
     "locationWhitelistTokens": [],
