@@ -90,6 +90,11 @@
     "name": "STWCombatHelipadsLightConfig.json"
   },
   {
+    "path": "STW/CombatHelipadsLight/STWFakeGunnerConfiguration.json",
+    "folder": "CombatHelipadsLight",
+    "name": "STWFakeGunnerConfiguration.json"
+  },
+  {
     "path": "STW/CombatKnowledge/STWCombatKnowledgeBehavior.json",
     "folder": "CombatKnowledge",
     "name": "STWCombatKnowledgeBehavior.json"
@@ -168,26 +173,6 @@
     "path": "STW/DivideAndConquer/SurveillanceBridge/STWSurveillanceBridgeBehaviour.json",
     "folder": "DivideAndConquer/SurveillanceBridge",
     "name": "STWSurveillanceBridgeBehaviour.json"
-  },
-  {
-    "path": "STW/Experience/STWExperienceConfig.json",
-    "folder": "Experience",
-    "name": "STWExperienceConfig.json"
-  },
-  {
-    "path": "STW/Experience/STWExperienceDiscordDashboard.json",
-    "folder": "Experience",
-    "name": "STWExperienceDiscordDashboard.json"
-  },
-  {
-    "path": "STW/Experience/STWExperienceRanks.json",
-    "folder": "Experience",
-    "name": "STWExperienceRanks.json"
-  },
-  {
-    "path": "STW/Experience/STWExperienceVehicleKillCategories.json",
-    "folder": "Experience",
-    "name": "STWExperienceVehicleKillCategories.json"
   },
   {
     "path": "STW/FPVDrone/STW_FpvDroneConfig.json",
@@ -308,6 +293,16 @@
     "path": "STW/Snipers/AutoPairs/STWSniperPairAutoConfig.json",
     "folder": "Snipers/AutoPairs",
     "name": "STWSniperPairAutoConfig.json"
+  },
+  {
+    "path": "STW/Snipers/AutoPairs/STWSniperPairAutoConfigDefault.json",
+    "folder": "Snipers/AutoPairs",
+    "name": "STWSniperPairAutoConfigDefault.json"
+  },
+  {
+    "path": "STW/Snipers/AutoPairs/STWSniperPairAutoConfigNODEBUG.json",
+    "folder": "Snipers/AutoPairs",
+    "name": "STWSniperPairAutoConfigNODEBUG.json"
   },
   {
     "path": "STW/Snipers/StructuralOverwatch/STWSniperStructuralOverwatchConfig.json",
