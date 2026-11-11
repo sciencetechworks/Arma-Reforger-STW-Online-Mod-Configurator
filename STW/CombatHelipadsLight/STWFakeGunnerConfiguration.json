@@ -1,0 +1,19 @@
+{
+    "enabled": true,
+    "presentationEnabled": true,
+    "maximumRangeMeters": 300.0,
+    "threatScanRadiusMeters": 300.0,
+    "threatScanIntervalSeconds": 0.5,
+    "distantShotIntervalSeconds": 0.5,
+    "burstRounds": 8,
+    "shotIntervalSeconds": 0.25,
+    "burstCooldownSeconds": 4.0,
+    "maximumShotsPerMinute": 60,
+    "maximumEngagementsPerSortie": 2,
+    "minimumEngagementCooldownSeconds": 90.0,
+    "maximumActiveProjectilesPerHelicopter": 4,
+    "maximumActiveProjectilesGlobal": 12,
+    "projectileLifetimeSeconds": 3.0,
+    "projectileMaximumDistanceMeters": 500.0,
+    "configurationVersion": 1
+}

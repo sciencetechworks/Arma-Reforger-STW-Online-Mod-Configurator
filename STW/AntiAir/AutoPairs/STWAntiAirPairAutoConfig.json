@@ -1,5 +1,5 @@
 {
-    "version": 21,
+    "version": 22,
     "automaticPairGeneratorEnabled": true,
     "cacheTileSizeMeters": 500.0,
     "cacheTilesPerBatch": 1,
@@ -13,7 +13,7 @@
     "maximumInitialPairsTotal": 4,
     "destroyedPairRespawnMinimumMinutes": 30.0,
     "destroyedPairRespawnMaximumMinutes": 60.0,
-    "pairSpawnExclusionRadiusMeters": 1500.0,
+    "pairSpawnExclusionRadiusMeters": 350.0,
     "pairOperatingAreaRadiusMeters": 20.0,
     "pairRelocationEnabled": true,
     "pairGuardMinimumHours": 1.0,

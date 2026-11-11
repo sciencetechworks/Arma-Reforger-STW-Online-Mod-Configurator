@@ -7,13 +7,13 @@
     "minimumBuildingWidthMeters": 3.0,
     "minimumBuildingLengthMeters": 3.0,
     "minimumBuildingHeightMeters": 2.0,
-    "maximumUnitsPerBuilding": 6,
+    "maximumUnitsPerBuilding": 4,
     "squadSize": 6,
     "minimumRequiredPlayerKills": 8,
     "maximumRequiredPlayerKills": 30,
-    "maximumActiveLocations": 6,
-    "highMaximumUnitsPerLocation": 40,
-    "highMaximumGlobalUnits": 80,
+    "maximumActiveLocations": 4,
+    "highMaximumUnitsPerLocation": 24,
+    "highMaximumGlobalUnits": 64,
     "mediumMaximumUnitsPerLocation": 24,
     "mediumMaximumGlobalUnits": 48,
     "lowMaximumUnitsPerLocation": 12,
@@ -35,8 +35,8 @@
     "nearbyReinforcementSeconds": 30,
     "distantReinforcementSeconds": 120,
     "clearedLocationRestartSeconds": 300,
-    "relocationMinimumSeconds": 30,
-    "relocationMaximumSeconds": 75,
+    "relocationMinimumSeconds": 10,
+    "relocationMaximumSeconds": 25,
     "cleanupCorpses": false,
     "corpseCleanupSeconds": 600,
     "spawnOperationSpacingSeconds": 5,
@@ -70,11 +70,11 @@
         },
         {
             "factionKey": "RHS_USAF",
-            "percentage": 20.0
+            "percentage": 5.0
         },
         {
             "factionKey": "RHS_AFRF",
-            "percentage": 80.0
+            "percentage": 95.0
         }
     ],
     "useNightVision": true,

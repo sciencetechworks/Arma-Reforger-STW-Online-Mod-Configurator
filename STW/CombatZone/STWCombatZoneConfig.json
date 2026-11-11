@@ -17,7 +17,7 @@
     "playerSafetyDistanceMeters": 120.0,
     "playerLeaveGraceSeconds": 30.0,
     "despawnDistanceMeters": 1200.0,
-    "minimumGroupsPerZone": 1,
+    "minimumGroupsPerZone": 2,
     "sustainedDetectionIntervalSeconds": 120,
     "groupTargetDecaySeconds": 180,
     "antiTankProbability": 0.15000000596046449,

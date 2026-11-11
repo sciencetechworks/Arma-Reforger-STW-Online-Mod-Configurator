@@ -33,7 +33,7 @@
     "defaultPatrollingJeeps": 1,
     "strongholdSleepEnabled": true,
     "disableStrongholdSleepForDiagnostics": false,
-    "strongholdSleepDiagnosticsEnabled": true,
+    "strongholdSleepDiagnosticsEnabled": false,
     "strongholdSleepRadiusMeters": 1200.0,
     "strongholdWakeRadiusMeters": 900.0,
     "strongholdSleepGraceSeconds": 90,

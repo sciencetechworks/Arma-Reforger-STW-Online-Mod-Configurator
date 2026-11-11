@@ -96,7 +96,7 @@
       "factionKey": "RHS_AFRF",
       "SpawnPoint": {
         "Enabled": true,
-        "Count": 12,
+        "Count": 6,
         "Strategy": "MILITARY_POI",
         "Prefab": "E86B0E337506B044",
         "MinimumSeparation": 1500,
@@ -137,7 +137,7 @@
       "factionKey": "US",
       "SpawnPoint": {
         "Enabled": true,
-        "Count": 12,
+        "Count": 6,
         "Strategy": "MILITARY_POI",
         "Prefab": "5A2220DD0C16958B",
         "MinimumSeparation": 1500,

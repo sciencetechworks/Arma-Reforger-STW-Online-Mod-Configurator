@@ -1,5 +1,5 @@
 {
-    "version": 14,
+    "version": 15,
     "enableAutomaticSupport": true,
     "enableAutomaticSmokeScreen": true,
     "enableAutomaticMortarHE": true,
@@ -118,6 +118,7 @@
     "perceptionDeregistrationGraceSeconds": 0.75,
     "enableStandaloneDrone": true,
     "droneScanResultsToGroupMembers": true,
+    "droneScanExcludeDeadDestroyedUnits": true,
     "droneScanShowChatMessage": true,
     "droneScanShowHint": true,
     "droneScanHintDurationSeconds": 8.0,

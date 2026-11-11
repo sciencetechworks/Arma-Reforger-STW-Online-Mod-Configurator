@@ -1,5 +1,8 @@
 {
     "enableSurveillanceDiagnosticTest": false,
+    "enableDebugEnvironmentTransitionChat": false,
+    "forestConcealmentEnterRadiusMeters": 75.0,
+    "forestConcealmentExitRadiusMeters": 100.0,
     "enabled": true,
     "baseProbability": 0.10000000149011612,
     "maximumProbability": 0.75,

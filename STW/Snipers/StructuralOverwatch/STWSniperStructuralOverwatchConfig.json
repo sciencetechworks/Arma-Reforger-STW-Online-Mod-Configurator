@@ -23,13 +23,16 @@
         "Infrastructure/Bridges/",
         "Structures/Walls/"
     ],
-    "structuralDiagnosticPrefabPathFragments": [],
+    "structuralDiagnosticPrefabPathFragments": [
+        "Buildings",
+        "Military"
+    ],
     "structuralTopSurfaceToleranceMeters": 0.75,
     "structuralPairSurfaceToleranceMeters": 0.75,
     "structuralScoreBonus": 2.0,
-    "structuralDiagnosticsEnabled": false,
-    "structuralVerboseDiagnosticsEnabled": false,
-    "structuralAcceptedCandidateDiagnosticsEnabled": false,
+    "structuralDiagnosticsEnabled": true,
+    "structuralVerboseDiagnosticsEnabled": true,
+    "structuralAcceptedCandidateDiagnosticsEnabled": true,
     "structuralAcceptedCandidateDiagnosticLimit": 80,
-    "structuralQueryCheckpointsEnabled": false
+    "structuralQueryCheckpointsEnabled": true
 }

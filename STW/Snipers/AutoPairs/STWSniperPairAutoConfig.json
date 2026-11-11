@@ -1,5 +1,5 @@
 {
-    "version": 15,
+    "version": 16,
     "automaticPairGeneratorEnabled": true,
     "cacheTileSizeMeters": 500.0,
     "cacheTilesPerBatch": 1,
@@ -21,11 +21,12 @@
     "pairRelocationArrivalTimeoutMinutes": 30.0,
     "pairRelocationCooldownMinutes": 15.0,
     "intelligenceReportsEnabled": true,
-    "intelligenceInitialReportDelayMinutes": 15.0,
-    "intelligenceReportMinimumHours": 2.0,
-    "intelligenceReportMaximumHours": 4.0,
-    "intelligenceReportUncertaintyRadiusMeters": 250.0,
+    "intelligenceInitialReportDelayMinutes": 1.0,
+    "intelligenceReportMinimumHours": 0.009999999776482582,
+    "intelligenceReportMaximumHours": 0.009999999776482582,
+    "intelligenceReportUncertaintyRadiusMeters": 25.0,
     "intelligenceMarkerLifetimeMinutes": 150.0,
+    "markerZoomThreshold": 1.5,
     "enabledFactionKeys": [
         "RHS_AFRF",
         "RHS_USAF"

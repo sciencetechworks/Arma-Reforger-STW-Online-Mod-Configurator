@@ -30,5 +30,11 @@
     "overturnedReplacementDelaySeconds": 300,
     "nearbyUpdateIntervalSeconds": 10.0,
     "distantUpdateIntervalSeconds": 30.0,
-    "nearbyPlayerRadiusMeters": 450.0
+    "nearbyPlayerRadiusMeters": 450.0,
+    "distantPlayerReleaseRadiusMeters": 600.0,
+    "distantTransitSpeedKmh": 42.0,
+    "distantTransitIntervalSeconds": 0.5,
+    "distantStopProbability": 0.05000000074505806,
+    "distantMinimumStopSeconds": 5,
+    "distantMaximumStopSeconds": 20
 }
