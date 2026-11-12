@@ -28,7 +28,7 @@
     "trustTrackedDriverForRoute": true,
     "supportRailTransitSpeedKph": 42.0,
     "supportRailTransitTickSeconds": 0.10000000149011612,
-    "supportRailPlayerExclusionMeters": 450.0,
+    "supportRailPlayerExclusionMeters": 150.0,
     "supportRailSnapMaximumMeters": 2000.0,
     "supportEtaExpiryMultiplier": 2.0,
     "supportEtaExpiryMinimumSeconds": 120.0,

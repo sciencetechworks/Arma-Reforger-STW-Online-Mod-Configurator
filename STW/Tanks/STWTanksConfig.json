@@ -24,6 +24,7 @@
     "generationOperationIntervalSeconds": 2.0,
     "crewAbsenceRecoverySeconds": 300.0,
     "vehicleMaintenanceIntervalSeconds": 600.0,
+	"supportRailPlayerHandoffMeters": 150.0,
     "distanceSimulationRadiusMeters": 450.0,
     "distantSimulationIntervalSeconds": 0.5,
     "localDefenseEnabled": true,

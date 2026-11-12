@@ -25,7 +25,7 @@
     "enableCombatSupportRailTransit": true,
     "combatSupportRailSpeedMetersPerSecond": 18.0,
     "combatSupportRailUpdateMilliseconds": 100,
-    "combatSupportRailPlayerExclusionMeters": 450.0,
+    "combatSupportRailPlayerExclusionMeters": 150.0,
     "combatSupportRailDistantUpdateMilliseconds": 3000,
     "enableCombatSupportRailSnapRecovery": true,
     "combatSupportRailSnapMaximumMeters": 200.0,
