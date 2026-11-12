@@ -25,6 +25,7 @@
     "routeStuckTimeoutSeconds": 45.0,
     "routeMinimumProgressMeters": 4.0,
     "routeRecoveryAttempts": 3,
+    "routeFailureBackoffSeconds": 30.0,
     "vehicleMaintenanceIntervalSeconds": 600.0,
     "minimumRespawnMinutes": 3.0,
     "maximumRespawnMinutes": 5.0,
