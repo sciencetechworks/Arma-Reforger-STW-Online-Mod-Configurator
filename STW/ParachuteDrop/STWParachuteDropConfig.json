@@ -9,7 +9,7 @@
     "RequestTimeoutSeconds": 60.0,
     "AllowImmediateDelivery": true,
     "MinimumSchedulingDelayMinutes": 10.0,
-    "AutomaticAirdropDeployments": true,
+    "AutomaticAirdropDeployments": false,
     "AutomaticAirdropMinimumPeriodMinutes": 60.0,
     "AutomaticAirdropMaximumPeriodMinutes": 90.0,
     "AutomaticAirdropEnabledFactionKeys": [],
