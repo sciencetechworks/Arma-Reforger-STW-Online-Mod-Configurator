@@ -23,9 +23,9 @@
     "specialForcesProbabilityPercent": 20,
     "cqbProbabilityPercent": 45,
     "strongholdProbabilityPercent": 35,
-    "cqbCombatZoneProbability": 0.75,
-    "strongholdCombatZoneProbability": 0.5,
-    "specialForcesCombatZoneProbability": 0.3499999940395355,
+    "cqbCombatZoneProbability": 0.0,
+    "strongholdCombatZoneProbability": 0.0,
+    "specialForcesCombatZoneProbability": 0.0,
     "specialForcesAllowedAreas": [
         "MilitaryBases",
         "Forests",

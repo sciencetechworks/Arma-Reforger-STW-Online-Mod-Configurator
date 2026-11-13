@@ -30,5 +30,8 @@
     "factionWeights": [
         5.0,
         95.0
-    ]
+    ],
+    "requesterFactionBiasEnabled": true,
+    "requesterFactionPercentage": 75.0,
+    "opposingFactionPercentage": 25.0
 }

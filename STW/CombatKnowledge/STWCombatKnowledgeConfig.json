@@ -14,6 +14,8 @@
   "automaticHelicopterAssaultTroopCount": -1,
   "automaticCASVehicleProbability": 0.3499999940395355,
   "automaticGroundReinforcementProbability": 0.3499999940395355,
+  "automaticCombatZoneProbability": 0.35,
+  "automaticCombatZoneAIDetectionProbability": 0.05,
   "automaticIndirectOrderProbability": 0.550000011920929,
   "automaticSmokePreferenceProbability": 0.699999988079071,
   "automaticIndirectPlayerOrderProbability": 1,
