@@ -4,7 +4,7 @@
         "RHS_AFRF"
     ],
     "automaticGenerationEnabled": true,
-      "sleepWakeEnabled": false,
+      "sleepWakeEnabled": true,
     "fpvDronesEnabled": true,
     "markersEnabled": true,
     "markerCircumferenceEnabled": true,
