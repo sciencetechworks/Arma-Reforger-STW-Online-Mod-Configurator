@@ -15,6 +15,7 @@
     "minimumEventIntervalSeconds": 300,
     "maximumEventIntervalSeconds": 1800,
     "confrontationEvaluationSeconds": 900,
+    "allowUnattendedConfrontationTokens": true,
     "missionCompletionEvaluationSeconds": 10,
     "maximumActiveCQBTokens": 1,
     "minimumConfrontationCellDistance": 6,
