@@ -17,6 +17,7 @@
     "confrontationEvaluationSeconds": 900,
     "missionCompletionEvaluationSeconds": 10,
     "maximumActiveCQBTokens": 1,
+    "minimumConfrontationCellDistance": 6,
     "cqbMaximumActiveAI": 80,
     "maximumActiveStrongholdTokens": 1,
     "maximumActiveSpecialForcesTokens": 2,
