@@ -4,6 +4,8 @@
         "RHS_AFRF"
     ],
     "automaticGenerationEnabled": true,
+    "dormantStartEnabled": true,
+    "dormantStartPrewarmDistanceMeters": 1200.0,
       "sleepWakeEnabled": true,
     "fpvDronesEnabled": true,
     "markersEnabled": true,

@@ -1,6 +1,8 @@
 {
     "version": 15,
     "enabled": true,
+    "dormantStartEnabled": true,
+    "dormantStartPrewarmDistanceMeters": 1200.0,
     "densityProfile": "HIGH",
     "minimumEligibleBuildings": 6,
     "minimumFallbackBuildings": 2,

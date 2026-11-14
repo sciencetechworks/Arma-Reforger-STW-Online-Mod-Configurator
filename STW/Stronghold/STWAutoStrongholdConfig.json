@@ -1,6 +1,8 @@
 {
-  "version": 9,
+  "version": 10,
   "enabled": true,
+  "dormantStartEnabled": true,
+  "dormantStartPrewarmDistanceMeters": 1200,
   "automaticTimeToLiveHours": 4,
   "strongholdsPerEnabledFaction": 1,
   "maximumAutomaticStrongholds": 2,
