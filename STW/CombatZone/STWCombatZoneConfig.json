@@ -23,7 +23,7 @@
     "sleepDistanceMeters": 1800.0,
     "wakeDistanceMeters": 1200.0,
     "sleepGraceSeconds": 90,
-    "minimumGroupsPerZone": 2,
+    "minimumGroupsPerZone": 8,
     "sustainedDetectionIntervalSeconds": 120,
     "groupTargetDecaySeconds": 180,
     "antiTankProbability": 0.15000000596046449,

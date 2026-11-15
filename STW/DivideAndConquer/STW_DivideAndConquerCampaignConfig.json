@@ -31,7 +31,7 @@
         "USSR"
     ],
     "combatZoneKillsPerPlayer": 20,
-    "combatZoneMinimumKills": 20,
+    "combatZoneMinimumKills": 200,
     "specialForcesProbabilityPercent": 20,
     "cqbProbabilityPercent": 45,
     "strongholdProbabilityPercent": 35,
