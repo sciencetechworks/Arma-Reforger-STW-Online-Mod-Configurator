@@ -28,7 +28,7 @@
     "activityRampStartDistanceMeters": 1200.0,
     "despawnUnitsWhenPlayerFar": true,
     "despawnUnitsWhenPlayerFarDistance": 1800.0,
-    "minimumPlayerSpawnDistanceMeters": 60.0,
+    "minimumPlayerSpawnDistanceMeters": 160.0,
     "initialRoadFallbackRadiusMeters": 300.0,
     "hostileSpawnBuildingSeparationMeters": 30.0,
     "preventMixedFactionBuildings": true,
