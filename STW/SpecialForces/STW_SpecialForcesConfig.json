@@ -1,5 +1,5 @@
 {
-    "configurationVersion": 6,
+    "configurationVersion": 7,
     "automaticGenerationFactions": [
         "RHS_AFRF"
     ],
@@ -8,6 +8,7 @@
     "dormantStartPrewarmDistanceMeters": 1200.0,
       "sleepWakeEnabled": true,
     "fpvDronesEnabled": true,
+    "maximumActiveFpvDrones": 1,
     "markersEnabled": true,
     "markerCircumferenceEnabled": true,
     "markerCircumferenceRadiusMeters": 200.0,

@@ -1,5 +1,5 @@
 {
-    "configVersion": 2,
+    "configVersion": 3,
     "enableDiagnostics": false,
     "enableFactionMortarPlacement": false,
     "maximumMortarsPerTile": 1,
@@ -22,6 +22,16 @@
     "cqbMaximumActiveAI": 80,
     "maximumActiveStrongholdTokens": 2,
     "maximumActiveSpecialForcesTokens": 4,
+    "maximumActiveCombatZoneTokens": 2,
+    "combatZoneSingleFaction": false,
+    "combatZoneRequesterPercentage": 75.0,
+    "combatZoneOpposingPercentage": 25.0,
+    "combatZoneFactions": [
+        "US",
+        "USSR"
+    ],
+    "combatZoneKillsPerPlayer": 20,
+    "combatZoneMinimumKills": 20,
     "specialForcesProbabilityPercent": 20,
     "cqbProbabilityPercent": 45,
     "strongholdProbabilityPercent": 35,

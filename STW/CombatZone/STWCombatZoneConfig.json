@@ -1,6 +1,7 @@
 {
-    "version": 1,
+    "version": 2,
     "enabled": true,
+    "diagnosticsEnabled": true,
     "minimumDetectedContacts": 1,
     "contactRetentionSeconds": 75.0,
     "staleGraceSeconds": 120.0,
@@ -9,7 +10,8 @@
     "maximumRadiusMeters": 700.0,
     "dispersionMultiplier": 1.0,
     "maximumActiveZones": 2,
-    "maximumGroupsPerZone": 2,
+    "maximumGroupsPerZone": 24,
+    "maximumActiveUnitsGlobal": 120,
     "minimumDispatchSeconds": 35,
     "maximumDispatchSeconds": 75,
     "spawnOutsideBubbleMinimumMeters": 150.0,
@@ -17,6 +19,10 @@
     "playerSafetyDistanceMeters": 120.0,
     "playerLeaveGraceSeconds": 30.0,
     "despawnDistanceMeters": 1200.0,
+    "sleepWakeEnabled": true,
+    "sleepDistanceMeters": 1800.0,
+    "wakeDistanceMeters": 1200.0,
+    "sleepGraceSeconds": 90,
     "minimumGroupsPerZone": 2,
     "sustainedDetectionIntervalSeconds": 120,
     "groupTargetDecaySeconds": 180,
@@ -33,5 +39,8 @@
     ],
     "requesterFactionBiasEnabled": true,
     "requesterFactionPercentage": 75.0,
-    "opposingFactionPercentage": 25.0
+    "opposingFactionPercentage": 25.0,
+    "automationSingleFactionProbability": 0.25,
+    "automationRequesterMinimumPercentage": 60.0,
+    "automationRequesterMaximumPercentage": 85.0
 }
