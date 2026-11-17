@@ -53,7 +53,7 @@
     "scriptedFlightOutboundSeconds": 30,
     "scriptedFlightCruiseAltitudeAGL": 70.0,
     "scriptedFlightCruiseSpeed": 30.0,
-    "helicopterAssaultCooldownMinutes": 10,
+    "helicopterAssaultCooldownMinutes": 8,
     "helicopterAssaultFailureCooldownMinutes": 5,
     "helicopterAssaultALZMinimumDistanceMeters": 75.0,
     "helicopterAssaultALZMaximumDistanceMeters": 150.0,

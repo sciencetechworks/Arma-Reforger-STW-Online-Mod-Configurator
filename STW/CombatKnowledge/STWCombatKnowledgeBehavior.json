@@ -10,7 +10,7 @@
     "enableAutomaticCASAgainstVehicles": true,
     "enableAutomaticCASAgainstInfantry": true,
     "enableAutomaticHelicopterAssault": true,
-    "automaticHelicopterAssaultProbability": 0.25,
+    "automaticHelicopterAssaultProbability": 0.55,
     "automaticVirtualHelicopterAssaultProbability": 0.75,
     "automaticHelicopterAssaultTroopCount": 6,
     "automaticCASVehicleProbability": 0.3499999940395355,
