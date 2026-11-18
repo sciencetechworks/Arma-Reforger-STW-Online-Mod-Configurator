@@ -1,5 +1,5 @@
 {
-    "configVersion": 6,
+    "configVersion": 7,
     "enableDiagnostics": false,
     "enableFactionMortarPlacement": false,
     "maximumMortarsPerTile": 1,
@@ -37,9 +37,6 @@
     "specialForcesProbabilityPercent": 20,
     "cqbProbabilityPercent": 45,
     "strongholdProbabilityPercent": 35,
-    "cqbCombatZoneProbability": 0.0,
-    "strongholdCombatZoneProbability": 0.0,
-    "specialForcesCombatZoneProbability": 0.0,
     "specialForcesAllowedAreas": [
         "MilitaryBases",
         "Forests",
