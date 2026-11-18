@@ -1,5 +1,5 @@
 {
-    "configVersion": 3,
+    "configVersion": 6,
     "enableDiagnostics": false,
     "enableFactionMortarPlacement": false,
     "maximumMortarsPerTile": 1,
@@ -30,8 +30,10 @@
         "US",
         "USSR"
     ],
-    "combatZoneKillsPerPlayer": 20,
-    "combatZoneMinimumKills": 200,
+    "combatZoneKillsPerPlayerMinimum": 20,
+    "combatZoneKillsPerPlayerMaximum": 50,
+    "combatZoneMinimumKillsMinimum": 20,
+    "combatZoneMinimumKillsMaximum": 50,
     "specialForcesProbabilityPercent": 20,
     "cqbProbabilityPercent": 45,
     "strongholdProbabilityPercent": 35,
