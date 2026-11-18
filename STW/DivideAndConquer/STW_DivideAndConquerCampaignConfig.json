@@ -70,9 +70,12 @@
     "frontlineAPMineCapPerTile": 6,
     "frontlineATMineCapPerTile": 8,
     "frontlineMineCapPerTile": 14,
-    "strategicTokenLifetimeSeconds": 28800,
-    "strategicTokenLifetimeMinimumSeconds": 21600,
-    "strategicTokenLifetimeMaximumSeconds": 43200,
+    "tokenLifetimeProfiles": [
+      { "providerTypeId": "STWSpecialForces", "minimumSeconds": 1800, "maximumSeconds": 3600 },
+      { "providerTypeId": "STWStronghold", "minimumSeconds": 21600, "maximumSeconds": 43200 },
+      { "providerTypeId": "STWCQB", "minimumSeconds": 21600, "maximumSeconds": 43200 },
+      { "providerTypeId": "STWCombatZone", "minimumSeconds": 21600, "maximumSeconds": 43200 }
+    ],
     "defeatedTileCooldownSeconds": 21600,
     "strongholdSoldierLossMinimumPercentage": 75,
     "strongholdSoldierLossMaximumPercentage": 95,
