@@ -17,18 +17,18 @@
     "confrontationEvaluationSeconds": 900,
     "allowUnattendedConfrontationTokens": true,
     "missionCompletionEvaluationSeconds": 10,
-    "maximumActiveCQBTokens": 4,
+    "maximumActiveCQBTokens": 3,
     "minimumConfrontationCellDistance": 6,
     "cqbMaximumActiveAI": 80,
     "maximumActiveStrongholdTokens": 2,
-    "maximumActiveSpecialForcesTokens": 4,
+    "maximumActiveSpecialForcesTokens": 3,
     "maximumActiveCombatZoneTokens": 2,
     "combatZoneSingleFaction": false,
     "combatZoneRequesterPercentage": 75.0,
     "combatZoneOpposingPercentage": 25.0,
     "combatZoneFactions": [
-        "US",
-        "USSR"
+        "RHS_AFRF",
+        "RHS_USAF"
     ],
     "combatZoneKillsPerPlayerMinimum": 20,
     "combatZoneKillsPerPlayerMaximum": 50,
@@ -67,10 +67,11 @@
     "frontlineATMineCapPerTile": 8,
     "frontlineMineCapPerTile": 14,
     "tokenLifetimeProfiles": [
-      { "providerTypeId": "STWSpecialForces", "minimumSeconds": 1800, "maximumSeconds": 3600 },
-      { "providerTypeId": "STWStronghold", "minimumSeconds": 21600, "maximumSeconds": 43200 },
-      { "providerTypeId": "STWCQB", "minimumSeconds": 21600, "maximumSeconds": 43200 },
-      { "providerTypeId": "STWCombatZone", "minimumSeconds": 21600, "maximumSeconds": 43200 }
+        {
+            "providerTypeId": "STWDefault",
+            "minimumSeconds": 21600,
+            "maximumSeconds": 43200
+        }
     ],
     "defeatedTileCooldownSeconds": 21600,
     "strongholdSoldierLossMinimumPercentage": 75,

@@ -1,10 +1,10 @@
 {
-    "version": 1,
+    "version": 2,
     "automaticSpawningEnabled": true,
     "enableNativeAIHandoff": true,
     "scenarioTruckCount": 12,
     "maximumActiveTrucks": 18,
-    "startupSpawnDelaySeconds": 180.0,
+    "startupSpawnDelaySeconds": 10.0,
     "destinationMinimumDistanceMeters": 1200.0,
     "destinationMaximumDistanceMeters": 12000.0,
     "destinationWaitMinimumSeconds": 30.0,

@@ -6,7 +6,7 @@
     "automaticGenerationEnabled": true,
     "dormantStartEnabled": true,
     "dormantStartPrewarmDistanceMeters": 1200.0,
-      "sleepWakeEnabled": true,
+    "sleepWakeEnabled": true,
     "fpvDronesEnabled": true,
     "maximumActiveFpvDrones": 1,
     "markersEnabled": true,

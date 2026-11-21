@@ -1,0 +1,17 @@
+{
+    "enabled": true,
+    "autoDiscoverArsenalItems": true,
+    "autoAssignDiscoveredItems": true,
+    "includeCompatibleAmmunitionVariants": false,
+    "itemsPerBatch": 12,
+    "batchDelayMilliseconds": 25,
+    "startupDelayMilliseconds": 0,
+    "discoveryItemsPerBatch": 12,
+    "discoveryBatchDelayMilliseconds": 25,
+    "verboseLogging": false,
+    "targetFactionKeys": [
+        "US",
+        "USSR",
+        "FIA"
+    ]
+}

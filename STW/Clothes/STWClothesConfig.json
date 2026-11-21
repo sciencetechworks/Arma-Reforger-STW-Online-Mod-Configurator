@@ -1,0 +1,13 @@
+{
+    "enabled": true,
+    "defaultSupplyCost": 10,
+    "startupDelayMilliseconds": 30000,
+    "itemsPerBatch": 1,
+    "batchDelayMilliseconds": 500,
+    "verboseLogging": false,
+    "targetFactionKeys": [
+        "US",
+        "RHS_USAF",
+        "RHS_AFRF"
+    ]
+}

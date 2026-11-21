@@ -10,9 +10,9 @@
     "defaultUSHelicopterModel": "RANDOM",
     "defaultUSSRHelicopterModel": "RANDOM",
     "sortieDurationMinutes": 120,
-    "maxActiveHelicopters": 4,
-    "maxActiveHelicoptersPerFaction": 2,
-    "maxConcurrentSorties": 4,
+    "maxActiveHelicopters": 2,
+    "maxActiveHelicoptersPerFaction": 1,
+    "maxConcurrentSorties": 2,
     "replaceMissingCrewBeforeTakeoff": true,
     "refuelBeforeTakeoff": true,
     "rearmBeforeTakeoff": true,
@@ -40,12 +40,12 @@
         },
         {
             "factionKey": "RHS_AFRF",
-            "automaticHelipadCount": 2
+            "automaticHelipadCount": 1
         }
     ],
-    "maximumAutomaticHelipads": 3,
+    "maximumAutomaticHelipads": 2,
     "automaticMinimumDefendingPatrols": 1,
-    "automaticMaximumDefendingPatrols": 3,
+    "automaticMaximumDefendingPatrols": 1,
     "automaticGenerationInitialDelaySeconds": 20,
     "automaticMinimumPadSeparationMeters": 1500.0,
     "scriptedFlightEnabled": true,
@@ -68,8 +68,8 @@
     "helicopterAssaultAdmissionConfigurationVersion": 1,
     "helicopterAssaultInitialRequestCooldownSeconds": 30,
     "helicopterAssaultMaximumRequestBackoffSeconds": 60,
-    "helicopterAssaultMaximumPendingPerFaction": 2,
-    "helicopterAssaultMaximumPendingGlobal": 3,
+    "helicopterAssaultMaximumPendingPerFaction": 1,
+    "helicopterAssaultMaximumPendingGlobal": 2,
     "helicopterAssaultDiagnosticThrottleSeconds": 30,
     "helicopterAssaultLandingCacheTTLSeconds": 5.0,
     "helicopterAssaultLandingCacheAnchorMeters": 32.0

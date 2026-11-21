@@ -61,7 +61,7 @@
     "preferWindowGuardPositions": true,
     "windowPreferenceTraceDistanceMeters": 8.0,
     "optionalFactionPercentage": 0.10000000149011612,
-    "opposingFactionReservePercentage": 0.30000001192092896,
+    "opposingFactionReservePercentage": 0.30000001192092898,
     "factionBalanceIntervalSeconds": 180,
     "factionSpawnPercentages": [
         {

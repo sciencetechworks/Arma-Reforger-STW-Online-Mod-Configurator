@@ -1,0 +1,1437 @@
+{
+    "sourceModSchema": 0,
+    "items": [
+        {
+            "prefab": "{014F4DA9EE7B4046}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_KpadsG3_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{035BA1DCD911D216}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_black_AK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{07209E9253AF215D}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_OutT_FullS_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{08320F2530D6F608}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/Helmet_LShZ_HC_3M_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{0B14BC25908C4570}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_KpadsSP_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{0C05EC01BC9518B2}Prefabs/Characters/HeadGear/Helmet_OPSCORE/Helmet_OPSCORE_XP_Black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{17262970D10CA9C9}Prefabs/Characters/Vests/Vest_Taktika/attachment_Taktika_shoulders_base_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{212E4CA75BA35631}Prefabs/Characters/HeadGear/Helmet_TOR/variants/Helmet_TOR_Large_black_arsenal.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{28E6A18D82F3E511}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_base_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{2A870D64D4AAF825}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{2E2A074E8FA6664D}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_medium_black_RGOlive6.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{34F59A5CEEFCBA09}Prefabs/Characters/HeadGear/Helmet_TOR/variants/Helmet_TOR_Large_black_SOBR2.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{3648E5E53999058A}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_black_RGOlive.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{37FA57D934B5D544}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/RGOlive/Helmet_LShZ_HC_black_RGOlive3.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{3A7B46B53C4E4ED9}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_black_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{3C9B7B520465E2F9}Prefabs/Characters/Vests/Vest_Taktika/attachment_Taktika_Groin_protection_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{3EE1721FBB9D47B9}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_black_RGOlive7.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{3EE5D06F1BB8F48F}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{40ED520CE1154848}Prefabs/Characters/HeadGear/Balaclavas/LShZ_Balaclava/Balaclava_LShZ_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4135547E507D4471}Prefabs/Items/Equipment/Patches/Patch_USMC_Recon_Black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{427E33AE3362E963}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_medium_black_RGOlive5.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{485C17CDCDB4FF6D}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_KpadsG4_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4B11814B9B9BC84E}Prefabs/Characters/HeadGear/Helmet_OPSCORE/Helmet_OPSCORE_XP_Black_AMP.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4B84A534407D0EF8}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_no_kpads_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4C5DB285BC550C42}Prefabs/Characters/HeadGear/Helmet_TOR/variants/Helmet_TOR_small_sordin_black_Arsenal.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{52B546FF0759C897}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_black_RGOlive4.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{54424D3E657F7423}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_medium_black_RGOlive8.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{5847EADDB5093FE7}Prefabs/Characters/Uniforms/Parka_Night/Night_parka_white.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{5862DF853F24F2BF}Prefabs/Characters/HeadGear/Hat_Beanie/variants/Hat_beanie_Black_ION.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{5C6C9219046422C3}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{5F578C59D0AE2135}Prefabs/Characters/HeadGear/Helmet_OPSCORE/variants/ION/Helmet_OPSCORE_XP_Black_PELTOR_ION.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{60D03DFEAA4AFDCA}Prefabs/Characters/Vests/Vest_Taktika/attachment_Taktika_Arms_protection_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6155F6837EA62422}Prefabs/Characters/HeadGear/Helmet_TOR/variants/Helmet_TOR_medium_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6271455F27BB4EBE}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_black1.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{633F2ED2026A8AA6}Prefabs/Characters/Vests/Vest_Taktika/attachment_Taktika_neck_protection_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6386CDA1D06D93E7}Prefabs/Characters/HeadGear/Helmet_TOR/variants/Helmet_TOR_small_black_Arsenal.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{63F1353AF0D18504}Prefabs/Characters/HeadGear/Headphones_Sordin_Liberator/Headphones_Sordin_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6451FB59BAB301CA}Prefabs/Characters/HeadGear/Helmet_OPSCORE/Helmet_OPSCORE_XP_Black_PELTOR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{67D99AADDA2DD358}Prefabs/Characters/Uniforms/Shirt_flannel/Icon/Prev_Flannel_White_1.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6C102A1A44AB68F1}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_kpadsG4_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6C4EAAD5C7B19722}Prefabs/Characters/HeadGear/Helmet_TOR/variants/Helmet_TOR_Large_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6C7CBEB10F1E0221}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/RGOlive/Helmet_LShZ_HC_black_RGOlive.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6E6D8107E6A6694A}Prefabs/Characters/Uniforms/Crye_Shirt/variants/Jacket_Crye_Combat_Shirt_Black_PatchOrange.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6F0273F0DB1AAECE}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_KpadsG2_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6F8163C7723541A0}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_black_RGOlive3.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{70442521C75E7555}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/Helmet_LShZ_HC_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{70C43F46203D4698}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_Rolled_MCBlack_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{72DBCB812C30890B}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_BaseT_RollS_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7513BB41AE20C536}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_neck_arms_protection_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{76D4FFEDF218F2AB}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_neck_arms_protection_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{78F48BFA57915F49}Prefabs/Characters/HeadGear/Helmet_OPSCORE/variants/ION/Helmet_OPSCORE_XP_Black_PELTOR_ION2.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{78F581E06303E870}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_groin_neck_protection_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7964ED0598C89DF0}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_OutT_RollS_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{79CC1DB67F1C8FCF}Prefabs/Characters/HeadGear/Helmet_TOR/Helmet_TOR_small_sordin_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7B42DB891C879E3E}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_BaseT_FullS_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7C94F4FDC5C8F1E6}Prefabs/Characters/Uniforms/Crye_Shirt/variants/Jacket_Crye_Combat_Shirt_Black_Granit.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7D12ED385A43B426}Prefabs/Characters/HeadGear/Hat_Beanie/variants/Hat_beanie_Black_ION2.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7DFE16A586CCD6A5}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_preset_black_GM94.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7F4A1696460E6054}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_medium_black_RGOlive2.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{8154DC51D29F4D97}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_groin_neck_protection_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{8A1D2F3E7ED0D6CB}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_black_RGOlive2.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{96D7E957C26AE8F7}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_6m2_1_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{97D8CE1F87C5BFBB}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_groinProtection_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{9AC26A63485DEC15}Prefabs/Characters/HeadGear/Helmet_TOR/Helmet_TOR_small_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{9AD65A6F4AEBF73F}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_medium_black_RGOlive3.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{9C624FF37082B70A}Prefabs/Characters/Uniforms/Crye_Pants/crye_pants_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{9ED4F6DE0B4DE865}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_medium_black_RGOlive1.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A11574965DA1C2BC}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_black_RGOlive8.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A2BF79C813F3AEB9}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_kpadsSP_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A5DED7E6AC3E3C28}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/Helmet_LShZ_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A770F24887D74E49}Prefabs/Characters/HeadGear/Helmet_OPSCORE/Helmet_OPSCORE_XP_Black_Liberator.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A7E27F573F877E08}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_medium_black_RGOlive4.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A86E5BCD319975E8}Prefabs/Characters/Uniforms/Crye_Pants/crye_pants_mcblack.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{AC1C630517753E2B}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_6m2_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{AE11DE4E84EFA0FA}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_OutT_RollS_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{B2A1D31059A24138}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_BaseT_PushS_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{B7290A060BBC5FFC}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_black_RGOlive5.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{BAD8FCB91A470714}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_base_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{BEAB7549E8F4C000}Prefabs/Items/Equipment/Backpacks/backpack_ZipOnPanel2.0/ZipOnPanel2.0_pack_MC_Black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{C37214C825AA8B52}Prefabs/Characters/HeadGear/Helmet_TOR/counterweight/TOR_counterweight_Black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{C62989375315C9BA}Prefabs/Characters/HeadGear/Helmet_TOR/variants/Helmet_TOR_small_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{C67B6FED199A1163}Prefabs/Characters/HeadGear/Helmet_TOR/Helmet_TOR_small_peltor_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{C6A69BD0EC2CCF9F}Prefabs/Characters/Uniforms/Shirt_flannel/flannel_shirt_white_1.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{C6E81D8A8C2B7D64}Prefabs/Characters/HeadGear/Helmet_TOR/variants/Helmet_TOR_medium_black_arsenal.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{C810AD17CF7A47A3}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_sordin_black_RGOlive.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{CAFC3C48F7E009C3}Prefabs/Items/Equipment/Patches/Patch_ION_Black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{CBB64BB78343F126}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_medium_black_RGOlive7.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{CCB365E9B5737ECD}Prefabs/Items/Equipment/Watches/Watch_GarminTactixBravo_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{CD38415A20E5DD22}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_groinProtection_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{CEC3960B168AFE5B}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_OutT_PushS_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{D0FC67F7216AD74C}Prefabs/Characters/HeadGear/Helmet_TOR/Helmet_TOR_medium_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{D24C9EA480A39EC8}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_BaseT_PushS_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{D2661B203850422F}Prefabs/Characters/HeadGear/Helmet_LShZ/variants/RGOlive/Helmet_LShZ_HC_black_RGOlive2.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{D2739B55CBC71F99}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_BaseT_RollS_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{D2CC2134268C2002}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_kpadsG3_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{D585D22578362515}Prefabs/Characters/HeadGear/Helmet_LShZ/Helmet_LShZ_HC_3M_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{D9F3B820345B8A33}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_OutT_PushS_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{DB41FC7E83B3EFDC}Prefabs/Items/Equipment/Patches/Patch_ION_BlackStatic.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{DB7D3EE6B778D0D2}Prefabs/Characters/HeadGear/Helmet_TOR/variants/RGOlive/Helmet_TOR_small_black_RGOlive6.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{DDFA6EF77A28E8AF}Prefabs/Characters/Vests/Vest_Taktika/Variants/Vest_Taktika_neck_protection_black_SOBR.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{DF361A86BC75CEB6}Prefabs/Characters/Uniforms/Crye_Pants/Crye_Pants_mcblack_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{DF886C6B22F49827}Prefabs/Items/Equipment/Backpacks/backpack_511_rush12/Backpack_511_rush12_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{E2407EADE71EAE47}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_no_kpads_BLK.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{E3CF7D0A9D08022E}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_Black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{E8E7EBA5BA46F188}Prefabs/Characters/Vests/Vest_Taktika/Vest_Taktika_neck_protection_black.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{E95480D14AEE3EF4}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_Rolled_mcblack.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{EC0E9011A76BD495}Prefabs/Characters/Uniforms/Parka_Night/Night_parka_black1.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{ED534F5630808EFF}Prefabs/Characters/Uniforms/Pants_CP_G3/BLACK_color/CP_G3_Pants_kpadsG2_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{F064D18A1B849012}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_OutT_FullS_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{FBDBF70EAF7C84E9}Prefabs/Characters/Uniforms/Shirt_CP_G3/BLACK_color/CP_G3_Shirt_ColA_BaseT_FullS_BLK_wear.et",
+            "sourceMod": "RHS_Core",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{046FD2AC6FC6CAD3}Prefabs/Characters/Uniforms/Jacket_Hoodie/Jacket_Hoodie_White_WCS_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{08BA18A8B4B4A7CC}Prefabs/Characters/Uniforms/Jacket_Tracksuit/Jacket_Tracksuit_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{0D9B71047024F752}Prefabs/Characters/Uniforms/Jacket_Tracksuit/Jacket_Tracksuit_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{1A912C2A6C8AB6CF}Prefabs/Characters/Footwear/Shoes_ThreeStripe/Shoes_ThreeStripe_White.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{1D51192598CC3AF1}Prefabs/Characters/Ghillies/Ghillie_Cloak/Ghillie_Cloak_MC.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{26E618F9E0E12F18}Prefabs/Characters/Footwear/Boots_Luma/Boots_Luma_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{2826298664155255}Prefabs/Items/Equipment/Backpacks/Backpack_Rush12/Backpack_Rush12_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{2A4051CC8055AEEE}Prefabs/Characters/Ghillies/Frogman_Scrim/Frogman_Scrim_base.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{2B385BD515D397FA}Prefabs/Characters/Ghillies/Ghillie_Cloak/Ghillie_Cloak_EMR.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{2E072542CD0F7D68}Prefabs/Characters/Uniforms/Jacket_Parka/Jacket_Parka_SolidBlack.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{2F46EE25CD6D3E03}Prefabs/Characters/Uniforms/Jacket_Parka/Jacket_Parka_White_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{35E1AEFF34FC3E06}Prefabs/Characters/Uniforms/Pants_Hiking/Pants_Hiking_Khaki_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{3859BB0A44DAF844}Prefabs/Characters/Vests/Vest_AVS_Pouches/Pack_ZipOnPanel2.0_MC_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{3A54C293F459EC4A}Prefabs/Characters/Uniforms/Pants_Military/Pants_Military_MC_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4081352F99AF1486}Prefabs/Characters/Uniforms/Shirt_TShirt/Shirt_TShirt_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4102BE377BBA65C3}Prefabs/Characters/Uniforms/Pants_CryeG3/Pants_CryeG3_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4598860244EBEAEB}Prefabs/Characters/Uniforms/Shirt_Muscle/Shirt_Muscle_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4738D761E82062D2}Prefabs/Characters/Footwear/Boots_Rocky_SV2/Boots_Rocky_SV2_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{4CA2F9326D6ADD35}Prefabs/Characters/Uniforms/Pants_Military/Pants_Military_MC_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{505D25F21F2614AF}Prefabs/Characters/Uniforms/Shirt_CryeG3_Rolled/Shirt_CryeG3_Rolled_MC_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{54DBEFDBCAE1DF50}Prefabs/Characters/Uniforms/Jacket_Hoodie/Jacket_Hoodie_White_WCS.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{586024B487A42393}Prefabs/Characters/Uniforms/Jacket_Hoodie/Jacket_Hoodie_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{599545F1B8AE3FD0}Prefabs/Characters/Uniforms/Shirt_CryeG3_Rolled/Shirt_CryeG3_Rolled_MC_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{5AB88F011F8E22CE}Prefabs/Characters/Uniforms/Jacket_Hoodie/Jacket_Hoodie_Black_WCS_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{5B7623C2FB067C9C}Prefabs/Characters/Uniforms/Shirt_Velocity/Shirt_Velocity_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{5DC8EE20E85B6BF9}Prefabs/Characters/Uniforms/Pants_Tracksuit/Pants_Tracksuit_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{612692FA676966B9}Prefabs/Characters/Ghillies/Frogman_Scrim/Frogman_Scrim_OD.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{61C681C29671C273}Prefabs/Characters/Handwear/Gloves_MechanixMpact/Gloves_MechanixMpact_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{65056965F13920FA}Prefabs/Characters/Handwear/Gloves_Pilot_US_01/Gloves_Pilot_US_01_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{6D72FEA2F5C537C7}Prefabs/Items/Equipment/Backpacks/Backpack_PouchZipOnPanel2.0/Backpack_PouchZipOnPanel2.0_MC_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{70D31582703C106C}Prefabs/Characters/Uniforms/Jacket_Parka/Jacket_Parka_SolidBlack_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7CC2588087C19B2A}Prefabs/Characters/Uniforms/Jacket_Parka/Jacket_Parka_White.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7F245520CF2B9549}Prefabs/Characters/Uniforms/Pants_CryeG3/Pants_CryeG3_MC_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{7FAB147FF3967881}Prefabs/Characters/Uniforms/Pants_Hiking/Pants_Hiking_Gray_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{8406D296CAF2EDCF}Prefabs/Characters/Uniforms/Jacket_Hoodie/Jacket_Hoodie_Black_WCS.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{86649B34AC769AF3}Prefabs/Characters/Ghillies/Ghillie_Cloak/Ghillie_Cloak_base.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{88F55B84D10B1C8A}Prefabs/Items/Equipment/Backpacks/Backpack_6Sh118/Backpack_6Sh118_Black_Small.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{8BB9C06C1AA5D342}Prefabs/Characters/Ghillies/Ghillie_Cloak/Ghillie_Cloak_ATACSFG.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{90B8295C228A0C38}Prefabs/Characters/Uniforms/Shirt_Flannel/Shirt_Flannel_White.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{979628A9463AA8AE}Prefabs/Items/Equipment/Backpacks/Backpack_6Sh118/Backpack_6Sh118_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{997995D0EF91D998}Prefabs/Characters/Handwear/Gloves_Wool_01/Gloves_Wool_01_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{9AEC6BDCFAE8F5B6}Prefabs/Characters/Uniforms/Jacket_VKPO_6B51/Jacket_VKPO_6B51_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{9EADEC45E5F0A648}Prefabs/Characters/Uniforms/Shirt_CryeG3/Shirt_CryeG3_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A3CF1953F200089E}Prefabs/Characters/Handwear/Gloves_Leather_01/Gloves_Leather_01_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A3DA5D8364CA012A}Prefabs/Characters/Handwear/Gloves_Wool_01/Gloves_Wool_01_White.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A7E9761301715C2F}Prefabs/Characters/Uniforms/Pants_Hiking/Pants_Hiking_Gray_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A86A0980460A2D85}Prefabs/Characters/Footwear/Boots_Faradey_1085/Boots_Faradey_1085_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A8A21C22963B85EC}Prefabs/Items/Equipment/Backpacks/Backpack_TacticalPegasus/Backpack_TacticalPegasus_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{A9268330530882B9}Prefabs/Characters/Handwear/Gloves_MechanixMpact/Gloves_MechanixMpact_White.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{AEA122735221EC26}Prefabs/Characters/Uniforms/Shirt_Muscle/Shirt_Muscle_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{B00D9BA20C2EB42D}Prefabs/Characters/Uniforms/Jacket_Hoodie/Jacket_Hoodie_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{B0F6F0FD432D9392}Prefabs/Characters/Uniforms/Pants_Hiking/Pants_Hiking_Khaki_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{B20666D3FB40316E}Prefabs/Characters/Ghillies/Frogman_Scrim/Frogman_Scrim_MC.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{B4225A7242B8DBE0}Prefabs/Characters/Uniforms/Jacket_Parka/Jacket_Parka_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{B8B93C0FD9E0710E}Prefabs/Characters/Uniforms/Jacket_Parka/Jacket_Parka_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{BA0F9F5A99EB285E}Prefabs/Characters/Uniforms/Shirt_CryeG3/Shirt_CryeG3_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{BB5C85F69162DECF}Prefabs/Characters/Ghillies/Frogman_Scrim/Frogman_Scrim_ATACSFG.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{BC5B532C13965C35}Prefabs/Characters/Handwear/Gloves_Oakley/Gloves_Oakley_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{C0E03E8DF5585004}Prefabs/Characters/Uniforms/Shirt_TShirt/Shirt_TShirt_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{C8BFB808F1228B6D}Prefabs/Characters/Uniforms/Jacket_VKPO_6B51/Jacket_VKPO_6B51_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{CE71ED0C04E56D26}Prefabs/Characters/Ghillies/Ghillie_Cloak/Ghillie_Cloak_OD.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{CF24ADC1CD608BEC}Prefabs/Characters/Uniforms/Pants_CryeG3/Pants_CryeG3_MC_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{D2712ED8A9F3F605}Prefabs/Characters/Footwear/Shoes_ThreeStripe/Shoes_ThreeStripe_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{EE13A87A0CE81BEA}Prefabs/Characters/Uniforms/Pants_CryeG3/Pants_CryeG3_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{F37940A44860FA89}Prefabs/Characters/Uniforms/Shirt_Flannel/Shirt_Flannel_White_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{F52AA82127D05EDF}Prefabs/Characters/Uniforms/Shirt_Velocity/Shirt_Velocity_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{F591FC5685DB89C8}Prefabs/Characters/Uniforms/Pants_Tracksuit/Pants_Tracksuit_Black_wear.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{F72F179AA1D59608}Prefabs/Items/Equipment/Backpacks/Backpack_Rush12/Backpack_Rush12_MC_Black.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        },
+        {
+            "prefab": "{FC8A27C0B3404B05}Prefabs/Characters/Ghillies/Ghillie_Cloak_Balaclava_ATACSFG_SF_Sharpshooter_SQUADS.et",
+            "sourceMod": "WCS_Clothing",
+            "enabled": true,
+            "manualFallback": true,
+            "supplyCost": 10,
+            "disabledFactionKeys": []
+        }
+    ]
+}

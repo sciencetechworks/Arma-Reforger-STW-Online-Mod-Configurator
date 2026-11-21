@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "enabled": true,
+    "minimumPassengers": 2,
+    "maximumPassengers": 8,
+    "occupancyProbability": 0.75
+}

@@ -5,7 +5,7 @@
     "minimumDetectedContacts": 1,
     "contactRetentionSeconds": 75.0,
     "staleGraceSeconds": 120.0,
-    "baseRadiusMeters": 1000.0,
+    "baseRadiusMeters": 900.0,
     "minimumRadiusMeters": 900.0,
     "maximumRadiusMeters": 1200.0,
     "dispersionMultiplier": 1.0,

@@ -10,12 +10,13 @@
     "enableAutomaticCASAgainstVehicles": true,
     "enableAutomaticCASAgainstInfantry": true,
     "enableAutomaticHelicopterAssault": true,
-    "automaticHelicopterAssaultProbability": 0.55,
+    "automaticHelicopterAssaultProbability": 0.25,
     "automaticVirtualHelicopterAssaultProbability": 0.75,
     "automaticHelicopterAssaultTroopCount": 6,
     "automaticCASVehicleProbability": 0.3499999940395355,
     "automaticGroundReinforcementProbability": 0.3499999940395355,
     "automaticCombatZoneProbability": 0.3499999940395355,
+    "automaticCombatZoneAIDetectionProbability": 0.05000000074505806,
     "automaticIndirectOrderProbability": 0.550000011920929,
     "automaticSmokePreferenceProbability": 0.699999988079071,
     "automaticIndirectPlayerOrderProbability": 1.0,
@@ -77,18 +78,18 @@
     "dispatchPerFactionPendingOrderLimit": 24,
     "dispatchReservedPriorityOrdersPerWindow": 4,
     "dispatchCapabilityLimits": {
-        "cas": 4,
         "indirectFire": 8,
+        "suppression": 12,
         "helicopterAssault": 4,
         "armoredSupport": 12,
         "smoke": 8,
         "lightSupport": 12,
         "tankSupport": 8,
-        "suppression": 12
+        "cas": 4
     },
     "dispatchCapabilityHourlyLimits": {
-        "cas": 10,
         "mortar_he": 6,
+        "suppression": 12,
         "mortar_flare": 8,
         "helicopterAssault": 3,
         "armoredSupport": 12,
@@ -96,11 +97,11 @@
         "tankSupport": 4,
         "lightSupport": 12,
         "building_clearance": 4,
-        "suppression": 12
+        "cas": 10
     },
     "dispatchCapabilityMinimumIntervalSeconds": {
-        "cas": 360.0,
         "mortar_he": 600.0,
+        "suppression": 300.0,
         "mortar_flare": 450.0,
         "helicopterAssault": 1200.0,
         "armoredSupport": 300.0,
@@ -108,7 +109,7 @@
         "tankSupport": 900.0,
         "lightSupport": 300.0,
         "building_clearance": 900.0,
-        "suppression": 300.0
+        "cas": 360.0
     },
     "vanillaLowVisibilityContactMemorySeconds": 75.0,
     "managedSniperContactMemorySeconds": 60.0,
