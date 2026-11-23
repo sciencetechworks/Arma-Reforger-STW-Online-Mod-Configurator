@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "blueFactionKeys": ["US", "RHS_USAF", "FFAA"],
+  "redFactionKeys": ["USSR", "RHS_AFRF"],
+  "friendlyFactionPairs": [
+    {"firstFactionKey": "US", "secondFactionKey": "RHS_USAF"},
+    {"firstFactionKey": "US", "secondFactionKey": "FFAA"},
+    {"firstFactionKey": "RHS_USAF", "secondFactionKey": "FFAA"}
+  ],
+  "hostileFactionPairs": [
+    {"firstFactionKey": "USSR", "secondFactionKey": "RHS_AFRF"},
+    {"firstFactionKey": "USSR", "secondFactionKey": "FFAA"},
+    {"firstFactionKey": "RHS_AFRF", "secondFactionKey": "FFAA"}
+  ]
+}

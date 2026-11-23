@@ -28,7 +28,8 @@
     "combatZoneOpposingPercentage": 25.0,
     "combatZoneFactions": [
         "RHS_AFRF",
-        "RHS_USAF"
+        "RHS_USAF",
+        "FFAA"
     ],
     "combatZoneKillsPerPlayerMinimum": 20,
     "combatZoneKillsPerPlayerMaximum": 50,
