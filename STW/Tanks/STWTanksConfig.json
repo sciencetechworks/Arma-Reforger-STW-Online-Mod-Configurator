@@ -1,5 +1,7 @@
 {
-    "version": 6,
+    "version": 7,
+    "cachedCircuitPlayerMigrationEnabled": true,
+    "cachedCircuitPlayerMigrationIntervalSeconds": 300.0,
     "targetUSTankCount": 1,
     "targetAFRFTankCount": 3,
     "minimumTankSeparation": 500.0,

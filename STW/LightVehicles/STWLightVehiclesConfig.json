@@ -1,5 +1,7 @@
 {
-    "version": 13,
+    "version": 14,
+    "cachedCircuitPlayerMigrationEnabled": true,
+    "cachedCircuitPlayerMigrationIntervalSeconds": 300.0,
     "vehicleMaintenanceIntervalSeconds": 600.0,
     "enableDiagnostics": true,
     "routeMonitorIntervalSeconds": 10.0,

@@ -1,5 +1,10 @@
 {
     "version": 2,
+    "cachedCircuitReviewIntervalSeconds": 30.0,
+    "cachedCircuitPlayerSafeRadiusMeters": 750.0,
+    "cachedCircuitPlayerMigrationEnabled": true,
+    "cachedCircuitMaximumTrucks": 2,
+    "cachedCircuitMinimumLengthMeters": 1000.0,
     "automaticSpawningEnabled": true,
     "enableNativeAIHandoff": true,
     "scenarioTruckCount": 12,
